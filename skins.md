@@ -10,10 +10,10 @@ Note I haven't made any of the elements in the skins, I just mixed them around. 
 ![](https://osu.ppy.sh/ss/16350763/ad48)
 
 # [- chikato11hehe](https://mega.nz/file/UGgmRCJa#aJeh65pjSPl_lT-rKkT9R3tPYYtkBVpJNWfimEEkgC4)
-![](https://osu.ppy.sh/ss/15871534/3bf7)
+![](https://osu.ppy.sh/ss/16350794/e4b8)
 
-# [- chikato idkega.nz/file/LBVFjI6Z#Xy3WIpyB1NxjKBsBKEFxILxhL-jFqiRU55VfmfYHY4g)
-![](https://osu.ppy.sh/ss/15975010/428c)
+# [- chikato idke](https://mega.nz/file/3ZFjRKTT#Xy3WIpyB1NxjKBsBKEFxILxhL-jFqiRU55VfmfYHY4g)
+![](https://osu.ppy.sh/ss/16350786/6dfc)
 
-# [- ryan(mystia)edit -](https://mega.nz/file/UGgmRCJa#aJeh65pjSPl_lT-rKkT9R3tPYYtkBVpJNWfimEEkgC4)
-![](https://osu.ppy.sh/ss/15871534/3bf7)
+# [- chikato rafus](https://mega.nz/file/bQUVxaia#abPYhYzMlseFM9aZ95x5wztjHNtQbtlhavZx7ZJjE4I)
+![](https://osu.ppy.sh/ss/16350792/113c)
