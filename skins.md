@@ -3,8 +3,8 @@
 # [- chikato](https://mega.nz/file/aJ0wlbaa#fBxQYk4R0ZW46YG7cOlGxUX6x98FG5ohBi9gNfn5mB0) 
 ![](https://osu.ppy.sh/ss/16350715/2750)
 
-# [- chikato kabemi](https://mega.nz/file/OUcDGSpB#5C4-mk-lBymfWXgqi3ZRIolZY1XBH9dS8yOJPJpY9Lo) 
-![](https://osu.ppy.sh/ss/16350719/c7bf)
+# [- chikato kabemi](https://mega.nz/file/XIVQQThL#lSKVh60MflpFXrokaLRcVwEe0YwUxaX-DQ6w47JaMvo) 
+![](https://osu.ppy.sh/ss/16358391/f83f)
 
 # [- chikato lolita](https://mega.nz/file/CMchwIjQ#njzSFO8x_p3xhpjc3zBMs8Sz2iG47dUqEWSJES6X9FQ)
 ![](https://osu.ppy.sh/ss/16350763/ad48)
