@@ -9,8 +9,8 @@
 # [- chikato lolita](https://mega.nz/file/CMchwIjQ#njzSFO8x_p3xhpjc3zBMs8Sz2iG47dUqEWSJES6X9FQ)
 ![](https://osu.ppy.sh/ss/16350763/ad48)
 
-# [- chikato11hehe](https://mega.nz/file/WNcXXIDB#dnyUksfngSQYsPOn1TwaXFOyAmwaW0_z-TFowunxubE)
-![](https://osu.ppy.sh/ss/16350794/e4b8)
+# [- chikato11hehe](https://mega.nz/file/3QtmyTZB#6MeGlO5TP5NpVNAmGgLCOD6npitW5G7WLX9T5aToVC0)
+![](https://osu.ppy.sh/ss/16363618/a671)
 
 # [- chikato idke](https://mega.nz/file/3ZFjRKTT#Xy3WIpyB1NxjKBsBKEFxILxhL-jFqiRU55VfmfYHY4g)
 ![](https://osu.ppy.sh/ss/16350786/6dfc)
