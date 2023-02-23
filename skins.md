@@ -1,4 +1,4 @@
-<h1>Note I haven't made any of the elements in the skins, I just mixed them around, changed things like colour, size and whatnot in some of the elements.</h1>
+<h1>Note I haven't made any of the elements in the skins, I just mixed them around, changed things like colour, size and whatnot in some of the elements. Ignore credits.txt, it got to the point where I didn't follow where the elements are from </h1>
 
 # [- chikato sameskin enumi](https://www.mediafire.com/file/ymw86y9h9msfjat/-+chikato+sameskin+enumi.osk/file)
 ![](https://osu.ppy.sh/ss/18317132/1f4d)
