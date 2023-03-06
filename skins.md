@@ -1,6 +1,9 @@
 <h1>Note I haven't made any of the elements in the skins, I just mixed them around, changed things like colour, size and whatnot in some of the elements.
+ 
 It got to the point where I didn't follow where the elements are from, I might know if you ask.
-Sorry for the repetivness.
+
+Sorry for the repetitiveness.
+
 Current skin count:  </h1>
 
 # [chikato sameskin enumi](https://www.mediafire.com/file/ymw86y9h9msfjat/-+chikato+sameskin+enumi.osk/file)
