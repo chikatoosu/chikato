@@ -1,10 +1,16 @@
 <h1>Note I haven't made any of the elements in the skins, I just mixed them around, changed things like colour, size and whatnot in some of the elements. It got to the point where I didn't follow where the elements are from, I might know if you ask. Current skin count:  </h1>
 
-# [- chikato sameskin enumi](https://www.mediafire.com/file/ymw86y9h9msfjat/-+chikato+sameskin+enumi.osk/file)
-![](https://osu.ppy.sh/ss/18317132/1f4d)
+# [chikato sameskin enumi](https://www.mediafire.com/file/ymw86y9h9msfjat/-+chikato+sameskin+enumi.osk/file)
+![](https://imgur.com/rF06Z5z)
+
+# [chikato sameskin enumi numer](https://www.mediafire.com/file/ymw86y9h9msfjat/-+chikato+sameskin+enumi.osk/file)
+![](https://imgur.com/9eFwBAt)
 
 # [- chikato sameskin whale deaceased](https://www.mediafire.com/file/7u66pqojlefdu5k/-+chikato+sameskin+whale+deaceased.osk/file)
-![](https://osu.ppy.sh/ss/18317135/3e15)
+![](https://imgur.com/UWUDlJB)
+
+# [- chikato sameskin whale deaceased eo](https://www.mediafire.com/file/7u66pqojlefdu5k/-+chikato+sameskin+whale+deaceased.osk/file)
+![](https://imgur.com/NYLKj32)
 
 # [- chikato aoki](https://www.mediafire.com/file/h8nxobqojys8nwc/-+chikato+aoki.osk/file) 
 ![](https://osu.ppy.sh/ss/18316920/f490)
