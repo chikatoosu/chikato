@@ -6,7 +6,7 @@ Full imgur: https://imgur.com/a/92oCpKC (missing benki fp and ghost subahibi)
 
 The list is quite long hence there might be errors, please notify if somethings wrong.
 
-Sorry for the repetitiveness of the skins, imagination issue.
+Sorry for the repetitiveness of the skins, creativity issue.
 
 Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderbs.
 
