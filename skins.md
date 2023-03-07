@@ -99,6 +99,9 @@ Current skin count: 75, 76 or 77 sorry can't count
 # [chikato boop remaster 404 testo monkoesto heart](https://drive.google.com/file/d/1UplFWbFxeSielhXazJ54p8JLm7O1O75X/view?usp=sharing) 
 ![](https://i.imgur.com/jqlKR77.jpg)
 
+# [chikato boop remaster ciru subahibi instafade](https://drive.google.com/file/d/156pyXs2ura3qVoFuFts_rTzpDdltg-4d/view?usp=sharing) 
+![](https://i.imgur.com/oW1zrQo.jpg)
+
 # [chikato boop remaster ghost](https://drive.google.com/file/d/1h2uuvFvCDE7F113PXCeOgKIwcmrdRgAT/view?usp=sharing) 
 ![](https://i.imgur.com/3Ffyig1.jpg)
 
