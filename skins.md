@@ -46,7 +46,7 @@ Current skin count:  </h1>
 ![](https://i.imgur.com/a4RADzx.jpg)
 
 # [chikato vaxcookie very cool](https://www.mediafire.com/file/u075hq83ubz6cpz/-+chikato+baquaCREZZ.osk/file) 
-![](https://i.imgur.com/QnJZRCy.jpg)
+![](https://i.imgur.com/TuGgzKO.jpeg)
 
 # [chikato aoki](https://www.mediafire.com/file/u075hq83ubz6cpz/-+chikato+baquaCREZZ.osk/file) 
 ![](https://i.imgur.com/IBqdGVT.jpg)
