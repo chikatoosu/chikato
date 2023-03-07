@@ -1,226 +1,241 @@
-<h1>Note I haven't made any of the elements in the skins, I just mixed them around, changed things like colour, size and whatnot in some of the elements.
- 
+<h1>Note I haven't made any of the elements in the skins, I just mixed them around, changed things like colour, size and whatnot in some of the elements. </h1>
+
 It got to the point where I didn't follow where the elements are from, I might know if you ask.
 
-Sorry for the repetitiveness.
+Full imgur: https://imgur.com/a/92oCpKC
 
-Current skin count:  </h1>
+The list is quite long hence there might be errors, please notify if somethings wrong.
 
-# [chikato sameskin enumi](https://www.mediafire.com/file/ymw86y9h9msfjat/-+chikato+sameskin+enumi.osk/file)
+Sorry for the repetitiveness of the skins, imagination issue.
+
+Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderbs.
+
+Current skin count: 77
+
+# [chikato sameskin enumi](https://drive.google.com/file/d/1DBYs-7QjqtC-E5rzdFEJzZ2JLc-FOOP1/view?usp=sharing)
 ![](https://i.imgur.com/rF06Z5z.jpg)
 
-# [chikato sameskin enumi numer](https://www.mediafire.com/file/ymw86y9h9msfjat/-+chikato+sameskin+enumi.osk/file)
+# [chikato sameskin enumi numer](https://drive.google.com/file/d/1a-qioM4CDo5QJdREQc-5CSO4ovT_llHH/view?usp=sharing)
 ![](https://i.imgur.com/9eFwBAt.jpg)
 
-# [chikato sameskin whale deaceased](https://www.mediafire.com/file/7u66pqojlefdu5k/-+chikato+sameskin+whale+deaceased.osk/file)
+# [chikato sameskin whale deaceased](https://drive.google.com/file/d/1O25nQsDnFA24K54EcBZUoQiNQTzprs45/view?usp=sharing)
 ![](https://i.imgur.com/UWUDlJB.jpg)
 
-# [chikato sameskin whale deaceased eo](https://www.mediafire.com/file/7u66pqojlefdu5k/-+chikato+sameskin+whale+deaceased.osk/file)
+# [chikato sameskin whale deaceased eo](https://drive.google.com/file/d/1NWuF7zw-U2lompZyk2EmwQx__ZwE8mK6/view?usp=sharing)
 ![](https://i.imgur.com/NYLKj32.jpg)
 
-# [chikato tekkiter their style](https://www.mediafire.com/file/ymw86y9h9msfjat/-+chikato+sameskin+enumi.osk/file)
+# [chikato tekkiter their style](https://drive.google.com/file/d/16_7zEuHS5IMTdc9EinEKyOrFh1t_uprm/view?usp=sharing)
 ![](https://i.imgur.com/CNXo5w3.jpg)
 
-# [chikato tekkiter2 their style](https://www.mediafire.com/file/ymw86y9h9msfjat/-+chikato+sameskin+enumi.osk/file)
+# [chikato tekkiter2 their style](https://drive.google.com/file/d/1wEGDsjPwi26q4d2rwnKvG5nzZZE5Pqne/view?usp=sharing)
 ![](https://i.imgur.com/SHKZ5vF.jpg)
 
-# [chikato tekkiter cappucino](https://www.mediafire.com/file/7u66pqojlefdu5k/-+chikato+sameskin+whale+deaceased.osk/file) (scorebar)
+# [chikato tekkiter cappucino](https://drive.google.com/file/d/1ztFdzrcVEKyQsCMkS1MPBl6KbRwijaLt/view?usp=sharing) (scorebar)
 ![](https://i.imgur.com/49aZfX6.jpg)
 
-# [chikato tekkito azr8](https://www.mediafire.com/file/sdkcple8haqkg2u/-+chikato+azr8+cookesee+chi+cat.osk/file) 
+# [chikato tekkito azr8](https://drive.google.com/file/d/1al7Ho4qy6r_rNZzAsL9tjBDiz7cl4hDJ/view?usp=sharing) 
 ![](https://i.imgur.com/9Jn0PkS.jpg)
 
-# [chikato tekkito azr8 dj mag deaceased](https://www.mediafire.com/file/7n85z0j8huislwa/-+chikato+azr8+navy.osk/file)
+# [chikato tekkito azr8 dj mag deaceased](https://drive.google.com/file/d/1irtYJGopzC8mIJCtf_ZB-WyyL-4QgNkX/view?usp=sharing)
 ![](https://i.imgur.com/PXQTNfq.jpg)
 
-# [chikato tekkito mizaru](https://www.mediafire.com/file/u8b4ds94cn945hj/-+chikato+azr8dsgfnjdsf.osk/file)
+# [chikato tekkito mizaru](https://drive.google.com/file/d/1zGzUyD-dtyaVBFV8_qh3COLp_rwvYHWZ/view?usp=sharing)
 ![](https://i.imgur.com/H74HKRU.jpg)
 
-# [chikato tekkito mizaru ekoro](https://www.mediafire.com/file/b59lww8vk4r7lvn/-+chikato+azur+remaster.osk/file)
+# [chikato tekkito mizaru ekoro](https://drive.google.com/file/d/1XkcbrarvHCoR7DkZjdEkSE__pqrejrYN/view?usp=sharing)
 ![](https://i.imgur.com/n2XbcrJ.jpg)
 
-# [chikato tekkito mizaru shirousa](https://www.mediafire.com/file/peqjsfil81wbv7h/-+chikato+bacon+boi.osk/file)
+# [chikato tekkito mizaru shirousa](https://drive.google.com/file/d/1rVymE6PHJp36pUhIsJmkRuoXjXwIONbL/view?usp=sharing)
 ![](https://i.imgur.com/HPu89jv.jpg)
 
-# [chikato tekkitoxei](https://www.mediafire.com/file/u075hq83ubz6cpz/-+chikato+baquaCREZZ.osk/file) 
+# [chikato tekkitoxei](https://drive.google.com/file/d/1Qy8HaefXkPD07OsNdzXq3OsfpdJOZcIR/view?usp=sharing) 
 ![](https://i.imgur.com/a4RADzx.jpg)
 
-# [chikato vaxcookie very cool](https://www.mediafire.com/file/u075hq83ubz6cpz/-+chikato+baquaCREZZ.osk/file) 
+# [chikato vaxcookie very cool](https://drive.google.com/file/d/1Kj7iVczPtomuAqGaqwt7MX8GEvx0PVZM/view?usp=sharing) 
 ![](https://i.imgur.com/TuGgzKO.jpeg)
 
-# [chikato aoki](https://www.mediafire.com/file/u075hq83ubz6cpz/-+chikato+baquaCREZZ.osk/file) 
+# [chikato to the beatum](https://drive.google.com/file/d/1uqVD4KwFlD6MsIz3W7mAzOusphX3gIx9/view?usp=sharing)
+![](https://i.imgur.com/Be38R7B.jpg)
+
+# [chikato tranquil sublimity](https://drive.google.com/file/d/1-7ebKR3jUqEY6ANgFq7YYrekkGKti7Vu/view?usp=sharing)
+![](https://i.imgur.com/nYxnQvb.jpg)
+
+# [chikato aoki](https://drive.google.com/file/d/18kZKtlYO6AztRiHStrGFjIkkNHpIiMwh/view?usp=sharing) 
 ![](https://i.imgur.com/IBqdGVT.jpg)
 
-# [chikato atesto testo updated](https://www.mediafire.com/file/u075hq83ubz6cpz/-+chikato+baquaCREZZ.osk/file) 
+# [chikato atesto testo updated](https://drive.google.com/file/d/13rj69Vd83kice5-HOftgq44tmRuYZul9/view?usp=sharing) 
 ![](https://i.imgur.com/6T4Gc5p.jpg)
 
 # [chikato azr8](https://www.mediafire.com/file/u075hq83ubz6cpz/-+chikato+baquaCREZZ.osk/file) 
 ![](https://i.imgur.com/wW6ouQw.jpg)
 
-# [chikato azr8 cookesee chi cat](https://www.mediafire.com/file/u075hq83ubz6cpz/-+chikato+baquaCREZZ.osk/file) 
+# [chikato azr8 cookesee chi cat](https://drive.google.com/file/d/1V0Ed914qn_f3WHI0VEHOlVS95njBEpV-/view?usp=sharing) 
 ![](https://i.imgur.com/Pqnaw0K.jpg)
 
-# [chikato azr8 navy](https://www.mediafire.com/file/u075hq83ubz6cpz/-+chikato+baquaCREZZ.osk/file) 
+# [chikato azr8 navy](https://drive.google.com/file/d/1ONikjlySVKQ9sd3dH8-Ku4NNSoWIXUWH/view?usp=sharing) 
 ![](https://i.imgur.com/PQFSq0y.jpg)
 
-# [chikato azr8dsgfnjdsf](https://www.mediafire.com/file/u075hq83ubz6cpz/-+chikato+baquaCREZZ.osk/file) 
+# [chikato azr8dsgfnjdsf](https://drive.google.com/file/d/1gEuEYP7_6aJ5m50WzB04VY0s5hX6z4Ac/view?usp=sharing) 
 ![](https://i.imgur.com/97h5MpJ.jpg)
 
-# [chikato azur remaster](https://www.mediafire.com/file/u075hq83ubz6cpz/-+chikato+baquaCREZZ.osk/file) 
+# [chikato azur remaster](https://drive.google.com/file/d/1LpbN3JpjT_rUUDv6I1LCb2G85-fuCPB1/view?usp=sharing) 
 ![](https://i.imgur.com/AE3PU85.jpg)
 
-# [chikato azur remaster og](https://www.mediafire.com/file/u075hq83ubz6cpz/-+chikato+baquaCREZZ.osk/file) 
+# [chikato azur remaster og](https://drive.google.com/file/d/1wM4OBT5cCAvBmGx20H_Vr73B-yPxgfHN/view?usp=sharing) 
 ![](https://i.imgur.com/Rvosx8o.jpg)
 
-# [chikato bacon boi](https://www.mediafire.com/file/u075hq83ubz6cpz/-+chikato+baquaCREZZ.osk/file) 
+# [chikato bacon boi](https://drive.google.com/file/d/1h0g_uo44lFbQQ4eYpYRU6t-vhLe4CIau/view?usp=sharing) 
 ![](https://i.imgur.com/BuOBqKM.jpg)
 
-# [chikato baquaCREZZ](https://www.mediafire.com/file/u075hq83ubz6cpz/-+chikato+baquaCREZZ.osk/file) 
+# [chikato baquaCREZZ](https://drive.google.com/file/d/1JxpeumsE94I-As8BN9EA8mTKA3mgB2WD/view?usp=sharing) 
 ![](https://i.imgur.com/OyGgO9k.jpg)
 
-# [chikato baquaCREZZgold](https://www.mediafire.com/file/u075hq83ubz6cpz/-+chikato+baquaCREZZ.osk/file) 
+# [chikato baquaCREZZgold](https://drive.google.com/file/d/1qJT3QerRGfzurI2d0lO7Uv10n_Fra6UP/view?usp=sharing) 
 ![](https://i.imgur.com/0deeTv4.jpg)
 
-# [chikato bloo ryuk test lighto](https://www.mediafire.com/file/h8nxobqojys8nwc/-+chikato+aoki.osk/file) 
+# [chikato bloo ryuk test lighto](https://drive.google.com/file/d/1qJ5Hrj_bT094mxZQXupyTyfOmFbh1onr/view?usp=sharing) 
 ![](https://i.imgur.com/9SkjqIr.jpg)
 
-# [chikato boop remaster 404 testo monkoesto heart](https://www.mediafire.com/file/rzwajem5mnplbs4/-+chikato+arnold+hit+different+tone+deaf.osk/file) 
+# [chikato boop remaster 404 testo monkoesto heart](https://drive.google.com/file/d/1UplFWbFxeSielhXazJ54p8JLm7O1O75X/view?usp=sharing) 
 ![](https://i.imgur.com/jqlKR77.jpg)
 
-# [chikato boop remaster ghost](https://www.mediafire.com/file/dzxz9t2odkw8h4p/-+chikato+atesto+testo.osk/file) 
+# [chikato boop remaster ghost](https://drive.google.com/file/d/1h2uuvFvCDE7F113PXCeOgKIwcmrdRgAT/view?usp=sharing) 
 ![](https://i.imgur.com/3Ffyig1.jpg)
 
-# [chikato boop remaster pinguinzi](https://www.mediafire.com/file/0154m4d2ueaod56/-+chikato+azr8.osk/file) 
+# [chikato boop remaster ghost subahibi](https://drive.google.com/file/d/1n5FFciS8MfOpHjInXvEm0Pv4w7KGut8O/view?usp=sharing) 
+![](https://i.imgur.com/7xLjSwB.jpg)
+
+# [chikato boop remaster pinguinzi](https://drive.google.com/file/d/10_-5jY1LSNns2kks_LW53Ih57CuX0yQS/view?usp=sharing) 
 ![](https://i.imgur.com/3xGXJ7a.jpg)
 
-# [chikato boop remaster red pixel](https://www.mediafire.com/file/sdkcple8haqkg2u/-+chikato+azr8+cookesee+chi+cat.osk/file) 
+# [chikato boop remaster red pixel](https://drive.google.com/file/d/1y01Jzfop2PUQlQFzolDC378rIkwFhjQ5/view?usp=sharing) 
 ![](https://i.imgur.com/wWlmVNX.jpg)
 
-# [chikato brown better](https://www.mediafire.com/file/7n85z0j8huislwa/-+chikato+azr8+navy.osk/file)
+# [chikato brown better](https://drive.google.com/file/d/1K19tHUBajrXAB15DRtlJW8pq_EEyvuPg/view?usp=sharing)
 ![](https://i.imgur.com/P0fwFgU.jpg)
 
-# [chikato colour dark](https://www.mediafire.com/file/u8b4ds94cn945hj/-+chikato+azr8dsgfnjdsf.osk/file)
+# [chikato colour dark](https://drive.google.com/file/d/1p8OGjxXTiCkUYO_sCW5wk6rqzZAdVCP-/view?usp=sharing)
 ![](https://i.imgur.com/3YLO6rO.jpg)
 
-# [chikato ekoro](https://www.mediafire.com/file/b59lww8vk4r7lvn/-+chikato+azur+remaster.osk/file)
+# [chikato ekoro](https://drive.google.com/file/d/12Lay-W9EraKtmF-DqMiWPwgxXLUY73PM/view?usp=sharing)
 ![](https://i.imgur.com/yZOMIi4.jpg)
 
-# [chikato ekoro class](https://www.mediafire.com/file/peqjsfil81wbv7h/-+chikato+bacon+boi.osk/file)
+# [chikato ekoro class](https://drive.google.com/file/d/1LpbN3JpjT_rUUDv6I1LCb2G85-fuCPB1/view?usp=sharing)
 ![](https://i.imgur.com/rhJmHYi.jpg)
 
-# [chikato kabemi better oatest](https://www.mediafire.com/file/u075hq83ubz6cpz/-+chikato+baquaCREZZ.osk/file) 
+# [chikato kabemi better oatest](https://drive.google.com/file/d/1V6UNLOTyLL_-DHa3mfjCU1ibO8tGJvYH/view?usp=sharing) 
 ![](https://i.imgur.com/oDSdUN0.jpg)
 
-# [chikato kaimu](https://www.mediafire.com/file/jupszzj0wwcsmeo/-+chikato+bloo+ryuk+test+lighto.osk/file) 
+# [chikato kaimu](https://drive.google.com/file/d/1eL5Kt04CIyotqSA-_Ps4DCnLKXPkYx8K/view?usp=sharing) 
 ![](https://i.imgur.com/m0NVKe5.jpg)
 
-# [chikato knalli](https://www.mediafire.com/file/mhphq265yx6zwss/-+chikato+boop+remaster+red+pixel.osk/file) 
+# [chikato knalli](https://drive.google.com/file/d/1z34l_LqiJpLsvrA7cBF2VKjzFx_P9IFw/view?usp=sharing) 
 ![](https://i.imgur.com/lXGpSiy.jpg)
 
-# [chikato malisz tekkito enumi](https://www.mediafire.com/file/6ebjcem7g7xovv8/-+chikato+boop+remaster+red+pixel+-+instafade.osk/file) 
+# [chikato malisz tekkito enumi](https://drive.google.com/file/d/1VRfzoBJTGmulU7Ys6nrRuch98BpnJP6v/view?usp=sharing) 
 ![](https://i.imgur.com/AqB8Cnk.jpg)
 
-# [chikato mathi ensalada](https://www.mediafire.com/file/55lktk5ne9ad15f/-+chikato+brown+better.osk/file) 
+# [chikato mathi ensalada](https://drive.google.com/file/d/1K-SuCIY8A4qCovRt1itIr930AQ0ZH3hO/view?usp=sharing) 
 ![](https://i.imgur.com/19YKQ1N.jpg)
 
-# [chikato mizaru zzz](https://www.mediafire.com/file/0ipubpzywxth53m/-+chikato+ekoro+class.osk/file)
+# [chikato mizaru zzz](https://drive.google.com/file/d/1JCKZTg9DUdR2f57nAvMkhr8Ur9wDvbdZ/view?usp=sharing)
 ![](https://i.imgur.com/IElZZy6.jpg)
 
-# [chikato orangechiner og](https://www.mediafire.com/file/vmyk9mdj2wqbuj6/-+chikato+enumi+1.0.osk/file)
+# [chikato monkoMetanoiaASS](https://drive.google.com/file/d/1BYwy1CY5znjHrwebeOqmyqlCYdBEJTsk/view?usp=sharing)
+![](https://i.imgur.com/QnJZRCy.jpeg)
+
+# [chikato orangechiner og](https://drive.google.com/file/d/1vNK2AZxLjtHcmFcrzrKxBWcRnlQ9fPMy/view?usp=sharing)
 ![](https://i.imgur.com/Xrpc1qn.jpg)
 
-# [chikato purplepan](https://www.mediafire.com/file/d0cppaq6ntsj1jk/-+chikato+instafade+copy.osk/file)
+# [chikato purplepan](https://drive.google.com/file/d/1ubo0XpUg-xLGMdZZE7O1g7vckrF9V5qc/view?usp=sharing)
 ![](https://i.imgur.com/4cmCswK.jpg)
 
-# [chikato purplepan 2](https://www.mediafire.com/file/2j5ruiiwe9ayg95/-+chikato+kabemi+better+oatest.osk/file)
+# [chikato purplepan 2](https://drive.google.com/file/d/19c4TlVRuOr8l3gkL9EWkvvB5AXWVoFLC/view?usp=sharing)
 ![](https://i.imgur.com/trwD9LL.jpg)
 
-# [chikato rafis silver](https://www.mediafire.com/file/ocwz9b4xcylk1jj/-+chikato+kaimu.osk/file) 
+# [chikato rafis silver](https://drive.google.com/file/d/1TFpklld4jP9ymGI5o1bzEo1Wj5gkUjIb/view?usp=sharing) 
 ![](https://i.imgur.com/WIHcSdB.jpg)
 
-# [chikato reused interstingo](https://www.mediafire.com/file/nmbz80vimwiu9w6/-+chikato+knalli.osk/file) 
+# [chikato reused interstingo](https://drive.google.com/file/d/1TTXEq3Uq4zrE8URHfeKigudMcdFDv8sE/view?usp=sharing) 
 ![](https://i.imgur.com/8s8utf1.jpg)
 
-# [chikato sakurotopia](https://www.mediafire.com/file/0aqew0y5a5eqszc/-+chikato+knalli+kaimu.osk/file) 
+# [chikato sakurotopia](https://drive.google.com/file/d/165-G4cqAgTMReGivtYpxMazkrv6N13sR/view?usp=sharing) 
 ![](https://i.imgur.com/C0IsWPO.jpg)
 
-# [chikato seoul v11 daBimBOM](https://www.mediafire.com/file/1s4oijne9bh7kib/-+chikato+malisz+tekkito+enumi.osk/file) 
+# [chikato seoul v11 daBimBOM](https://drive.google.com/file/d/1YVI2taJHoV10nB65RF1YqxpM12Rz0S7E/view?usp=sharing) 
 ![](https://i.imgur.com/S8Kfk81.jpg)
 
-# [chikato seoulmathi](https://www.mediafire.com/file/wa30huj46cwv4ua/-+chikato+mathi+ensalada.osk/file) 
+# [chikato seoulmathi](https://drive.google.com/file/d/150r4BmhEbDQDRtSYuu7LiCXCZQbO1y0Y/view?usp=sharing) 
 ![](https://i.imgur.com/3eYPKBg.jpg)
 
-# [chikato to the beatum](https://www.mediafire.com/file/2ek2b3m53fxve6e/-+chikato+minefrost+rushia+chicat.osk/file)
-![](https://i.imgur.com/Be38R7B.jpg)
-
-# [chikato tranquil sublimity](https://www.mediafire.com/file/1tcgdg5vmpkp2gj/-+chikato+mizaru+zzz.osk/file)
-![](https://i.imgur.com/nYxnQvb.jpg)
-
-# [chikato vaxer old cool og](https://www.mediafire.com/file/2c8c5y8j1vtd3nu/-+chikato+MonkoMetanoiaASS.osk/file)
+# [chikato vaxer old cool og](https://drive.google.com/file/d/1AmtF-Op8ZY0xemp5P-XVpqBTBBI85Ni5/view?usp=sharing)
 ![](https://i.imgur.com/2WtqM4G.jpg)
 
-# [chikato yaong](https://www.mediafire.com/file/2jtujmbcwxwin15/-+chikato+orangechiner.osk/file)
-![](https://i.imgur.com/zK2xDk3.jpg)
-
-# [chikato yu68lokser](https://www.mediafire.com/file/asmvlm6pb1a9k0y/-+chikato+orangechiner+og.osk/file) 
+# [chikato yu68lokser](https://drive.google.com/file/d/1jBuRnAbOcpGfr8CtwjsVcKP7lfLTqhwJ/view?usp=sharing) 
 ![](https://i.imgur.com/cFbpksC.jpg)
 
-# [aristekk](https://www.mediafire.com/file/9jtyxvvipdmtc17/-+chikato+orangechiner+og300.osk/file) 
+# [aristekk](https://drive.google.com/file/d/1H1GfxH6Ieo_qBuc76CDFdHWgQu161TCo/view?usp=sharing) 
 ![](https://i.imgur.com/BQpetim.jpg)
 
-# [charlottera](https://www.mediafire.com/file/ivuzm6qsfqz48bp/-+chikato+purplepan.osk/file) 
+# [BENKI FP](https://drive.google.com/file/d/1xL3QDRPswIgrA-wHTQXhnDrNV6kCC1XS/view?usp=sharing) 
+![](https://i.imgur.com/PRSp5cT.jpg)
+
+# [charlottera](https://drive.google.com/file/d/1eOiArKmhNPVjFZz365O0gmSBXc61ZxjU/view?usp=sharing) 
 ![](https://i.imgur.com/p929wQm.jpg)
 
-# [cookerzeker](https://www.mediafire.com/file/a0okss0omyx45ob/-+chikato+purplepan+2.osk/file) 
+# [cookerzeker](https://drive.google.com/file/d/11_Vik9btuU65DND2d3T_gpe1iA2i7Qnq/view?usp=sharing) 
 ![](https://i.imgur.com/r669OtV.jpg)
 
-# [kablaze azer m](https://www.mediafire.com/file/1zzv18mv9jwqxtd/-+chikato+rafis+vaxei.osk/file) 
+# [kablaze azer m](https://drive.google.com/file/d/1l0vK5CKSMc-NCZD-omZbCBfPireks1JU/view?usp=sharing) 
 ![](https://i.imgur.com/WRSo7tB.jpg)
 
-# [kablaze azer m bombalowju](https://www.mediafire.com/file/c38g8fzzxpop72i/-+chikato+rafis+vaxei+shimon.osk/file)
+# [kablaze azer m bombalowju](https://drive.google.com/file/d/1HLMbiTNoHcbPtpoWqFOqC4cLa5oUhAPj/view?usp=sharing)
 ![](https://i.imgur.com/7oCAnOO.jpg)
 
-# [monkoGlassyMaliszTurquoise](https://www.mediafire.com/file/3tgjntvbj0zh255/-+chikato+reused+interestingo.osk/file)
+# [monkoGlassyMaliszTurquoise](https://drive.google.com/file/d/1E4qEUDDrbl5Jp9djALZE3enaDJrdPl9v/view?usp=sharing)
 ![](https://i.imgur.com/A7nsKn3.jpg)
 
-# [Reused 2umu Tsubasa](https://www.mediafire.com/file/2x90lgl6f0zg69t/-+chikato+sakurotopia.osk/file)
+# [Reused 2umu Tsubasa](https://drive.google.com/file/d/1kpWU_znMOzRBfoRsr4pCqA7Dc2WRR4Le/view?usp=sharing)
 ![](https://i.imgur.com/PmF4e35.jpg)
 
-# [seoul shinobu](https://www.mediafire.com/file/1fl9cn6l9r3l47c/-+chikato+seoul+v10+daBimBOM.osk/file)
+# [seoul shinobu](https://drive.google.com/file/d/1L_oeXodAeJZ_PBI_U2o0RrmciUSCk4dB/view?usp=sharing)
 ![](https://i.imgur.com/w9j3Jsh.jpg)
 
-# [seoul v11](https://www.mediafire.com/file/2sm5zi2dxnf79ze/-+chikato+seoulmathi.osk/file)
+# [seoul v11](https://drive.google.com/file/d/1_ZJ_YzhyYe7dNTt8q_Fp4NkTSmdT2azu/view?usp=sharing)
 ![](https://i.imgur.com/uiXR7jD.jpg)
 
-# [Telta](https://www.mediafire.com/file/ocqn5ps2i06bavu/-+chikato+tekkiter.osk/file) 
+# [Telta](https://drive.google.com/file/d/1JG9MyZzm3cjWHzqNVVaK7WLSQ5kLHO3G/view?usp=sharing) 
 ![](https://i.imgur.com/W9rTLMi.jpg)
 
-# [Tokichii chiker](https://www.mediafire.com/file/p8b3lxc6036flpk/-+chikato+tekkito+azr8.osk/file) 
+# [Tokichii chiker](https://drive.google.com/file/d/1Kvwn1IgijclcpDIfs2Xz45Yt5Vzr8dTQ/view?usp=sharing) 
 ![](https://i.imgur.com/uqFmKNB.jpg)
 
-# [aristia exarch nanoya real](https://www.mediafire.com/file/yykeljqs70gl6mh/-+chikato+tekkito+azr8+dj+mag+deceased.osk/file) 
+# [aristia exarch nanoya real](https://drive.google.com/file/d/187t5jk1sbW6x5cetzONuy8fQTKjGRJoQ/view?usp=sharing) 
 ![](https://i.imgur.com/kRTLY5j.jpg)
 
-# [xoo and other anomalies](https://www.mediafire.com/file/kjm33c019jw96es/-+chikato+tekkito+mizaru.osk/file) 
+# [xoo and other anomalies](https://drive.google.com/file/d/1WE-pOvsWlTkKgNXbXLHw9wDYSp492a2F/view?usp=sharing) 
 ![](https://i.imgur.com/FcYq2mL.jpg)
 
-# [yaong ameliorite](https://www.mediafire.com/file/ourasncw76srf7w/-+chikato+tekkito+mizaru+ekoro.osk/file) 
+# [yaong ameliorite](https://drive.google.com/file/d/1QQAl-iZqAxZETym3hkdUyx6QUKPHBiZf/view?usp=sharing) 
 ![](https://i.imgur.com/OANzaOe.jpg)
 
-# [chikato arnold hit different tone deaf](https://www.mediafire.com/file/2sm5zi2dxnf79ze/-+chikato+seoulmathi.osk/file)
+# [chikato yaong](https://drive.google.com/file/d/12Twis2ftYUhWbbz8VveKN_azSQuVquOh/view?usp=sharing)
+![](https://i.imgur.com/zK2xDk3.jpg)
+
+# [chikato arnold hit different tone deaf](https://drive.google.com/file/d/1zBjj73riLrM-WCgLR6ryBSKEuRjQvZ1h/view?usp=sharing)
 ![](https://i.imgur.com/8QgDrST.jpg)
 
-# [chikato boop remaster black lotus](https://www.mediafire.com/file/ocqn5ps2i06bavu/-+chikato+tekkiter.osk/file) 
+# [chikato boop remaster black lotus](https://drive.google.com/file/d/1avRfixWwdaGG9BSg4gyg3nhURLdLYxOg/view?usp=sharing) 
 ![](https://i.imgur.com/6DGH8c8.jpg)
 
-# [chikato enumi 1.0](https://www.mediafire.com/file/p8b3lxc6036flpk/-+chikato+tekkito+azr8.osk/file) 
+# [chikato enumi 1.0](https://drive.google.com/file/d/1fwvpGphBOoo6bVOB5xXS3tzJ08Wpm2iC/view?usp=sharing) 
 ![](https://i.imgur.com/zspG3sw.jpg)
 
-# [chikato instafade copy](https://www.mediafire.com/file/yykeljqs70gl6mh/-+chikato+tekkito+azr8+dj+mag+deceased.osk/file) 
+# [chikato instafade copy](https://drive.google.com/file/d/1pjJPppxIDqMlHancQ6OvwKk9hoKD1lg1/view?usp=sharing) 
 ![](https://i.imgur.com/yuMZafp.jpg)
 
-# [chikato malisz tekkito](https://www.mediafire.com/file/kjm33c019jw96es/-+chikato+tekkito+mizaru.osk/file) 
+# [chikato malisz tekkito](https://drive.google.com/file/d/1shLU6nhUrxIxsFXyyRTaPuCV4p1eVfFv/view?usp=sharing) 
 ![](https://i.imgur.com/HzjtDzr.jpg)
 
-# [chikato Sadness](https://www.mediafire.com/file/ourasncw76srf7w/-+chikato+tekkito+mizaru+ekoro.osk/file) 
+# [chikato Sadness](https://drive.google.com/file/d/1yur4JfDu7e3uM7eMmaLymKSbSml_Wf7-/view?usp=sharing) 
 ![](https://i.imgur.com/uo7PDiH.jpg)
