@@ -1,4 +1,4 @@
-<h1>I haven't made any of the elements in the skins, I just mixed them around, changed things like colour, size and whatnot in some of the elements. </h1>
+<h1>I haven't made any of the elements in the skins, I just mixed them around, changed things like colour, size and whatnot of some elements. </h1>
 
 It got to the point where I didn't follow where the elements are from, I might know if you ask.
 
