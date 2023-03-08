@@ -2,7 +2,7 @@
 
 It got to the point where I didn't follow where the elements are from, I might know if you ask.
 
-Full imgur: https://imgur.com/a/92oCpKC (missing benki fp and ghost subahibi)
+Full imgur: https://imgur.com/a/92oCpKC (missing benki fp and ghost/ciru subahibi)
 
 The list is quite long hence there might be errors, please notify if somethings wrong.
 
