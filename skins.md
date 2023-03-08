@@ -10,7 +10,7 @@ Sorry for the repetitiveness of the skins, creativity issue.
 
 Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderbs.
 
-Current skin count: 75, 76 or 77 sorry can't count
+Current skin count: 77
 
 # [chikato sameskin enumi](https://drive.google.com/file/d/1DBYs-7QjqtC-E5rzdFEJzZ2JLc-FOOP1/view?usp=sharing)
 ![](https://i.imgur.com/rF06Z5z.jpg)
