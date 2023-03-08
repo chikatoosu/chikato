@@ -135,7 +135,7 @@ Current skin count: 77
 # [chikato knalli](https://drive.google.com/file/d/1z34l_LqiJpLsvrA7cBF2VKjzFx_P9IFw/view?usp=sharing) 
 ![](https://i.imgur.com/lXGpSiy.jpg)
 
-# [chikato malisz tekkito enumi](https://drive.google.com/file/d/1VRfzoBJTGmulU7Ys6nrRuch98BpnJP6v/view?usp=sharing) 
+# [chikato malisz tekkito enumi](https://drive.google.com/file/d/1VRfzoBJTGmulU7Ys6nrRuch98BpnJP6v/view?usp=sharing) advice: change border to 98,100,104
 ![](https://i.imgur.com/AqB8Cnk.jpg)
 
 # [chikato mathi ensalada](https://drive.google.com/file/d/1K-SuCIY8A4qCovRt1itIr930AQ0ZH3hO/view?usp=sharing) 
