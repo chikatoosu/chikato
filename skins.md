@@ -120,7 +120,7 @@ Current skin count: 76
 # [chikato colour dark](https://drive.google.com/file/d/1p8OGjxXTiCkUYO_sCW5wk6rqzZAdVCP-/view?usp=sharing)
 ![](https://i.imgur.com/3YLO6rO.jpg)
 
-# [chikato ekoro](https://drive.google.com/file/d/12Lay-W9EraKtmF-DqMiWPwgxXLUY73PM/view?usp=sharing)
+# [chikato ekoro](https://drive.google.com/file/d/12Lay-W9EraKtmF-DqMiWPwgxXLUY73PM/view?usp=sharing) (not hit300s)
 ![](https://i.imgur.com/yZOMIi4.jpg)
 
 # [chikato ekoro class](https://drive.google.com/file/d/1LpbN3JpjT_rUUDv6I1LCb2G85-fuCPB1/view?usp=sharing)
