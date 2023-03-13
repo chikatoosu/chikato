@@ -10,7 +10,7 @@ Sorry for the repetitiveness of the skins, creativity issue.
 
 Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderbs.
 
-Current skin count: 76
+Current skin count: 77
 
 # [chikato sameskin enumi](https://drive.google.com/file/d/1DBYs-7QjqtC-E5rzdFEJzZ2JLc-FOOP1/view?usp=sharing)
 ![](https://i.imgur.com/rF06Z5z.jpg)
@@ -44,6 +44,9 @@ Current skin count: 76
 
 # [chikato tekkito mizaru ekoro](https://drive.google.com/file/d/1XkcbrarvHCoR7DkZjdEkSE__pqrejrYN/view?usp=sharing) (no hit300s)
 ![](https://i.imgur.com/n2XbcrJ.jpg)
+
+# [chikato tekkito mizaru ekoro baquaNUMER](https://drive.google.com/file/d/12uqsajT_LfbL3ueko2TfEaEmzJ8FNNtu/view?usp=sharing) (no hit300s, sliderb and follow combined)
+![](https://i.imgur.com/1RQHAbV.jpg)
 
 # [chikato tekkito mizaru shirousa](https://drive.google.com/file/d/1rVymE6PHJp36pUhIsJmkRuoXjXwIONbL/view?usp=sharing)
 ![](https://i.imgur.com/HPu89jv.jpg)
