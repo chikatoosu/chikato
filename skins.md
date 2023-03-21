@@ -2,7 +2,7 @@
 
 It got to the point where I didn't follow where the elements are from, I might know if you ask.
 
-Full imgur: https://imgur.com/a/92oCpKC (missing benki fp and ghost/ciru subahibi, mizaru ekoro baqua)
+Full imgur: https://imgur.com/a/92oCpKC (missing benki fp and ghost/ciru subahibi, mizaru ekoro baqua, raifs silverb0)
 
 The list is quite long hence there might be errors, please notify if somethings wrong.
 
@@ -159,8 +159,11 @@ Current skin count: 77
 # [chikato purplepan 2](https://drive.google.com/file/d/19c4TlVRuOr8l3gkL9EWkvvB5AXWVoFLC/view?usp=sharing)
 ![](https://i.imgur.com/trwD9LL.jpg)
 
-# [chikato rafis silver](https://drive.google.com/file/d/1TFpklld4jP9ymGI5o1bzEo1Wj5gkUjIb/view?usp=sharing) 
+# [chikato rafis silver](https://drive.google.com/file/d/1AELW63s_2PFORdRiiWdFdNQFg7sw4kVr/view?usp=sharing) 
 ![](https://i.imgur.com/WIHcSdB.jpg)
+
+# [chikato rafis silverb0](https://drive.google.com/file/d/1TFpklld4jP9ymGI5o1bzEo1Wj5gkUjIb/view?usp=sharing) 
+![](https://i.imgur.com/V7FbZwF.jpg)
 
 # [chikato reused interstingo](https://drive.google.com/file/d/1TTXEq3Uq4zrE8URHfeKigudMcdFDv8sE/view?usp=sharing) 
 ![](https://i.imgur.com/8s8utf1.jpg)
