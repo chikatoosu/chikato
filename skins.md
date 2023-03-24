@@ -147,7 +147,7 @@ Current skin count: 78
 # [chikato mizaru zzz](https://drive.google.com/file/d/1JCKZTg9DUdR2f57nAvMkhr8Ur9wDvbdZ/view?usp=sharing)
 ![](https://i.imgur.com/IElZZy6.jpg)
 
-# [chikato monkoMetanoiaASS](https://drive.google.com/file/d/1BYwy1CY5znjHrwebeOqmyqlCYdBEJTsk/view?usp=sharing)
+# [chikato monkoMetanoiaASS](https://drive.google.com/file/d/1BYwy1CY5znjHrwebeOqmyqlCYdBEJTsk/view?usp=sharing) advice: change defaults
 ![](https://i.imgur.com/QnJZRCy.jpeg)
 
 # [chikato orangechiner og](https://drive.google.com/file/d/1vNK2AZxLjtHcmFcrzrKxBWcRnlQ9fPMy/view?usp=sharing)
