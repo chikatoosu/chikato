@@ -2,7 +2,7 @@
 
 It got to the point where I didn't follow where the elements are from, I might know if you ask.
 
-Full imgur: https://imgur.com/a/92oCpKC (missing benki fp and ghost/ciru subahibi, mizaru ekoro baqua, raifs silverb0)
+Full imgur: https://imgur.com/a/HNNhYcr
 
 The list is quite long hence there might be errors, please notify if somethings wrong.
 
@@ -58,7 +58,7 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 # [chikato to the beatum](https://drive.google.com/file/d/1uqVD4KwFlD6MsIz3W7mAzOusphX3gIx9/view?usp=sharing)
 ![](https://i.imgur.com/Be38R7B.jpg)
 
-# [chikato tranquil sublimity](https://drive.google.com/file/d/1-7ebKR3jUqEY6ANgFq7YYrekkGKti7Vu/view?usp=sharing)
+# [chikato tranquil sublimity](https://drive.google.com/file/d/1-7ebKR3jUqEY6ANgFq7YYrekkGKti7Vu/view?usp=sharing) Tint: 1
 ![](https://i.imgur.com/nYxnQvb.jpg)
 
 # [chikato aoki](https://drive.google.com/file/d/18kZKtlYO6AztRiHStrGFjIkkNHpIiMwh/view?usp=sharing) 
@@ -142,7 +142,7 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 # [chikato kaimu](https://drive.google.com/file/d/1eL5Kt04CIyotqSA-_Ps4DCnLKXPkYx8K/view?usp=sharing) 
 ![](https://i.imgur.com/m0NVKe5.jpg)
 
-# [chikato knalli](https://drive.google.com/file/d/1z34l_LqiJpLsvrA7cBF2VKjzFx_P9IFw/view?usp=sharing) 
+# [chikato knalli](https://drive.google.com/file/d/1z34l_LqiJpLsvrA7cBF2VKjzFx_P9IFw/view?usp=sharing) Tint: 1
 ![](https://i.imgur.com/lXGpSiy.jpg)
 
 # [chikato malisz tekkito](https://drive.google.com/file/d/1shLU6nhUrxIxsFXyyRTaPuCV4p1eVfFv/view?usp=sharing) 
