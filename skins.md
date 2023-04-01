@@ -112,8 +112,8 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 # [chikato boop remaster pinguinzi](https://drive.google.com/file/d/10_-5jY1LSNns2kks_LW53Ih57CuX0yQS/view?usp=sharing) 
 ![](https://i.imgur.com/3xGXJ7a.jpg)
 
-# [chikato boop remaster red pixel](https://drive.google.com/file/d/1y01Jzfop2PUQlQFzolDC378rIkwFhjQ5/view?usp=sharing) 
-![](https://i.imgur.com/wWlmVNX.jpg)
+# [chikato boop remaster red pixel](https://drive.google.com/file/d/1E3rCKXGehqpVjP79mA-EYnYjeD3c6_I6/view?usp=sharing) 
+![](https://i.imgur.com/bIAhnM3.jpg)
 
 # [chikato boop remaster venrue](https://drive.google.com/file/d/1JSF7nn3kSUZwSoap3ji74nClfxQ-JFh1/view?usp=sharing) (instafade)
 ![](https://i.imgur.com/bzE6ikf.jpg)
