@@ -51,7 +51,6 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 
 # [chikato tekkitoxei](https://drive.google.com/file/d/1Qy8HaefXkPD07OsNdzXq3OsfpdJOZcIR/view?usp=sharing) 
 ![](https://i.imgur.com/a4RADzx.jpg)
-![screenshot803](https://user-images.githubusercontent.com/80904314/229298821-e6b4817b-e9c9-4a84-bf9b-74ae7e877bb2.jpg)
 
 # [chikato vaxcookie very cool](https://drive.google.com/file/d/1Kj7iVczPtomuAqGaqwt7MX8GEvx0PVZM/view?usp=sharing) 
 ![](https://i.imgur.com/TuGgzKO.jpeg)
@@ -174,10 +173,10 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 ![](https://i.imgur.com/trwD9LL.jpg)
 
 # [chikato rafis silver](https://drive.google.com/file/d/1Snoa1X1nJ5b0pt-wvWvy407nSph7wWbN/view?usp=sharing) 
-![](https://i.imgur.com/WIHcSdB.jpg)
+![](https://i.imgur.com/lVkEIKe.jpg)
 
 # [chikato rafis silverb0](https://drive.google.com/file/d/159YOgGICTWn5ZxIuXZtJV7q3k3MwRA0g/view?usp=sharing) 
-![](https://i.imgur.com/V7FbZwF.jpg)
+![](https://i.imgur.com/GrcHq7Z.jpg)
 
 # [chikato reused interstingo](https://drive.google.com/file/d/1TTXEq3Uq4zrE8URHfeKigudMcdFDv8sE/view?usp=sharing) 
 ![](https://i.imgur.com/8s8utf1.jpg)
@@ -226,6 +225,9 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 
 # [aristia exarch nanoya real](https://drive.google.com/file/d/187t5jk1sbW6x5cetzONuy8fQTKjGRJoQ/view?usp=sharing) 
 ![](https://i.imgur.com/kRTLY5j.jpg)
+
+# [aristia exarch blue da bu real](https://drive.google.com/file/d/153oAoQCcvFi9g28o8VW85ooCZYwao2Nm/view?usp=sharing) 
+![](https://i.imgur.com/HHndeCH.jpg)
 
 # [xoo and other anomalies](https://drive.google.com/file/d/1WE-pOvsWlTkKgNXbXLHw9wDYSp492a2F/view?usp=sharing) 
 ![](https://i.imgur.com/FcYq2mL.jpg)
