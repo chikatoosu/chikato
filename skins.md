@@ -10,6 +10,8 @@ Sorry for the repetitiveness of the skins, creativity issue.
 
 Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderbs.
 
+scorebar-bg@2xq in boop remaster ghost if you want og scorebar
+
 # [chikato sameskin enumi](https://drive.google.com/file/d/1DBYs-7QjqtC-E5rzdFEJzZ2JLc-FOOP1/view?usp=sharing)
 ![](https://i.imgur.com/rF06Z5z.jpg)
 
@@ -63,6 +65,15 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 
 # [chikato aoki](https://drive.google.com/file/d/18kZKtlYO6AztRiHStrGFjIkkNHpIiMwh/view?usp=sharing) 
 ![](https://i.imgur.com/IBqdGVT.jpg)
+
+# [chikato aristekk](https://drive.google.com/file/d/1zY8dU8H_gfFDgbj6JWJ8e2ZaRzdobIDY/view?usp=sharing) 
+![](https://i.imgur.com/BQpetim.jpg)
+
+# [chikato aristia exarch nanoya real](https://drive.google.com/file/d/12ZRSUnRXd1Mtjcd7KNJtsxN7HeqA_oO7/view?usp=sharing) 
+![](https://i.imgur.com/kRTLY5j.jpg)
+
+# [chikato aristia exarch blue da bu real](https://drive.google.com/file/d/17l6zbOwRlq-8AC4TGcxReiHWUybaWAcy/view?usp=sharing) 
+![](https://i.imgur.com/HHndeCH.jpg)
 
 # [chikato atesto testo updated](https://drive.google.com/file/d/13rj69Vd83kice5-HOftgq44tmRuYZul9/view?usp=sharing) 
 ![](https://i.imgur.com/6T4Gc5p.jpg)
@@ -157,6 +168,9 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 # [chikato mizaru zzz](https://drive.google.com/file/d/1JCKZTg9DUdR2f57nAvMkhr8Ur9wDvbdZ/view?usp=sharing)
 ![](https://i.imgur.com/IElZZy6.jpg)
 
+# [chikato monkoGlassyMaliszTurquoise](https://drive.google.com/file/d/1-77CwvLnzvc7K5TUsbGUcAL7jnlUFOrC/view?usp=sharing)
+![](https://i.imgur.com/A7nsKn3.jpg)
+
 # [chikato monkoMetanoiASS](https://drive.google.com/file/d/1-0glos3CPwL1fN_FJ1bS6_blsP5g5LH7/view?usp=sharing) wow vaxcookie 1.2
 ![](https://i.imgur.com/SGS6xY3.jpg)
 
@@ -181,8 +195,14 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 # [chikato reused interstingo](https://drive.google.com/file/d/1TTXEq3Uq4zrE8URHfeKigudMcdFDv8sE/view?usp=sharing) 
 ![](https://i.imgur.com/8s8utf1.jpg)
 
+# [chikato reused 2umu Tsubasa](https://drive.google.com/file/d/1xP4tFHGe8k15XocKe3YeY2WOt4hvQ6un/view?usp=sharingyaong)
+![](https://i.imgur.com/PmF4e35.jpg)
+
 # [chikato sakurotopia](https://drive.google.com/file/d/165-G4cqAgTMReGivtYpxMazkrv6N13sR/view?usp=sharing) 
 ![](https://i.imgur.com/C0IsWPO.jpg)
+
+# [chikato seoul v11](https://drive.google.com/file/d/13S4c6WqT_HuQKXAPJ26-cYIC6PnnVsoP/view?usp=sharing)
+![](https://i.imgur.com/uiXR7jD.jpg)
 
 # [chikato seoul v11 daBimBOM](https://drive.google.com/file/d/1YVI2taJHoV10nB65RF1YqxpM12Rz0S7E/view?usp=sharing) 
 ![](https://i.imgur.com/S8Kfk81.jpg)
@@ -196,26 +216,14 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 # [chikato yu68lokser](https://drive.google.com/file/d/1jBuRnAbOcpGfr8CtwjsVcKP7lfLTqhwJ/view?usp=sharing) 
 ![](https://i.imgur.com/cFbpksC.jpg)
 
-# [aristekk](https://drive.google.com/file/d/1H1GfxH6Ieo_qBuc76CDFdHWgQu161TCo/view?usp=sharing) 
-![](https://i.imgur.com/BQpetim.jpg)
-
 # [BENKI FP](https://drive.google.com/file/d/1xL3QDRPswIgrA-wHTQXhnDrNV6kCC1XS/view?usp=sharing) 
 ![](https://i.imgur.com/PRSp5cT.jpg)
 
 # [cookerzeker](https://drive.google.com/file/d/11_Vik9btuU65DND2d3T_gpe1iA2i7Qnq/view?usp=sharing) 
 ![](https://i.imgur.com/r669OtV.jpg)
 
-# [monkoGlassyMaliszTurquoise](https://drive.google.com/file/d/1E4qEUDDrbl5Jp9djALZE3enaDJrdPl9v/view?usp=sharing)
-![](https://i.imgur.com/A7nsKn3.jpg)
-
-# [Reused 2umu Tsubasa](https://drive.google.com/file/d/1kpWU_znMOzRBfoRsr4pCqA7Dc2WRR4Le/view?usp=sharing)
-![](https://i.imgur.com/PmF4e35.jpg)
-
 # [seoul shinobu](https://drive.google.com/file/d/1L_oeXodAeJZ_PBI_U2o0RrmciUSCk4dB/view?usp=sharing)
 ![](https://i.imgur.com/w9j3Jsh.jpg)
-
-# [seoul v11](https://drive.google.com/file/d/1_ZJ_YzhyYe7dNTt8q_Fp4NkTSmdT2azu/view?usp=sharing)
-![](https://i.imgur.com/uiXR7jD.jpg)
 
 # [Telta](https://drive.google.com/file/d/1JG9MyZzm3cjWHzqNVVaK7WLSQ5kLHO3G/view?usp=sharing) 
 ![](https://i.imgur.com/W9rTLMi.jpg)
@@ -223,20 +231,14 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 # [Tokichii chiker](https://drive.google.com/file/d/1Kvwn1IgijclcpDIfs2Xz45Yt5Vzr8dTQ/view?usp=sharing) 
 ![](https://i.imgur.com/uqFmKNB.jpg)
 
-# [aristia exarch nanoya real](https://drive.google.com/file/d/187t5jk1sbW6x5cetzONuy8fQTKjGRJoQ/view?usp=sharing) 
-![](https://i.imgur.com/kRTLY5j.jpg)
-
-# [aristia exarch blue da bu real](https://drive.google.com/file/d/153oAoQCcvFi9g28o8VW85ooCZYwao2Nm/view?usp=sharing) 
-![](https://i.imgur.com/HHndeCH.jpg)
-
-# [xoo and other anomalies](https://drive.google.com/file/d/1WE-pOvsWlTkKgNXbXLHw9wDYSp492a2F/view?usp=sharing) 
+# [chikato xoo and other anomalies](https://drive.google.com/file/d/1hIzF5v0glCL55IJMDylnJJtRy9-O7nz6/view?usp=sharing) 
 ![](https://i.imgur.com/FcYq2mL.jpg)
-
-# [yaong ameliorite](https://drive.google.com/file/d/1QQAl-iZqAxZETym3hkdUyx6QUKPHBiZf/view?usp=sharing) 
-![](https://i.imgur.com/OANzaOe.jpg)
 
 # [chikato yaong](https://drive.google.com/file/d/1-qknbV6dcgqdjNzNpCfhiyRp3IZF3Jqw/view?usp=sharing)
 ![](https://i.imgur.com/nbZeeuL.jpg)
+
+# [chikato yaong ameliorite](https://drive.google.com/file/d/1gd_VnDV0F7F3bV1GuQES75ydvUevt5Sv/view?usp=sharing) 
+![](https://i.imgur.com/OANzaOe.jpg)
 
 # [chikato arnold hit different tone deaf](https://drive.google.com/file/d/1zBjj73riLrM-WCgLR6ryBSKEuRjQvZ1h/view?usp=sharing)
 ![](https://i.imgur.com/8QgDrST.jpg)
