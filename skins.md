@@ -10,8 +10,6 @@ Sorry for the repetitiveness of the skins, creativity issue.
 
 Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderbs.
 
-Current skin count: 78
-
 # [chikato sameskin enumi](https://drive.google.com/file/d/1DBYs-7QjqtC-E5rzdFEJzZ2JLc-FOOP1/view?usp=sharing)
 ![](https://i.imgur.com/rF06Z5z.jpg)
 
@@ -53,6 +51,7 @@ Current skin count: 78
 
 # [chikato tekkitoxei](https://drive.google.com/file/d/1Qy8HaefXkPD07OsNdzXq3OsfpdJOZcIR/view?usp=sharing) 
 ![](https://i.imgur.com/a4RADzx.jpg)
+![screenshot803](https://user-images.githubusercontent.com/80904314/229298821-e6b4817b-e9c9-4a84-bf9b-74ae7e877bb2.jpg)
 
 # [chikato vaxcookie very cool](https://drive.google.com/file/d/1Kj7iVczPtomuAqGaqwt7MX8GEvx0PVZM/view?usp=sharing) 
 ![](https://i.imgur.com/TuGgzKO.jpeg)
@@ -117,13 +116,16 @@ Current skin count: 78
 # [chikato boop remaster red pixel](https://drive.google.com/file/d/1y01Jzfop2PUQlQFzolDC378rIkwFhjQ5/view?usp=sharing) 
 ![](https://i.imgur.com/wWlmVNX.jpg)
 
+# [chikato boop remaster venrue](https://drive.google.com/file/d/1JSF7nn3kSUZwSoap3ji74nClfxQ-JFh1/view?usp=sharing) (instafade)
+![](https://i.imgur.com/bzE6ikf.jpg)
+
 # [chikato brown better](https://drive.google.com/file/d/1K19tHUBajrXAB15DRtlJW8pq_EEyvuPg/view?usp=sharing)
 ![](https://i.imgur.com/P0fwFgU.jpg)
 
 # [chikato colour dark](https://drive.google.com/file/d/1p8OGjxXTiCkUYO_sCW5wk6rqzZAdVCP-/view?usp=sharing)
 ![](https://i.imgur.com/3YLO6rO.jpg)
 
-# [chikato ekoro](https://drive.google.com/file/d/12Lay-W9EraKtmF-DqMiWPwgxXLUY73PM/view?usp=sharing) (not hit300s)
+# [chikato ekoro](https://drive.google.com/file/d/12Lay-W9EraKtmF-DqMiWPwgxXLUY73PM/view?usp=sharing) (no hit300s)
 ![](https://i.imgur.com/yZOMIi4.jpg)
 
 # [chikato ekoro class](https://drive.google.com/file/d/1LpbN3JpjT_rUUDv6I1LCb2G85-fuCPB1/view?usp=sharing)
@@ -132,11 +134,20 @@ Current skin count: 78
 # [chikato kabemi better oatest](https://drive.google.com/file/d/1V6UNLOTyLL_-DHa3mfjCU1ibO8tGJvYH/view?usp=sharing) 
 ![](https://i.imgur.com/oDSdUN0.jpg)
 
+# [chikato kablaze azer m](https://drive.google.com/file/d/1MtBnS6kC--99dPzagVoVx7MAd3UaWpXK/view?usp=sharing) 
+![](https://i.imgur.com/WRSo7tB.jpg)
+
+# [chikato kablaze azer m bombalowju](https://drive.google.com/file/d/1iLW7jw_6x5w-2lrolvXGTUBTM_AuqLmU/view?usp=sharing)
+![](https://i.imgur.com/7oCAnOO.jpg)
+
 # [chikato kaimu](https://drive.google.com/file/d/1eL5Kt04CIyotqSA-_Ps4DCnLKXPkYx8K/view?usp=sharing) 
 ![](https://i.imgur.com/m0NVKe5.jpg)
 
 # [chikato knalli](https://drive.google.com/file/d/1z34l_LqiJpLsvrA7cBF2VKjzFx_P9IFw/view?usp=sharing) 
 ![](https://i.imgur.com/lXGpSiy.jpg)
+
+# [chikato malisz tekkito](https://drive.google.com/file/d/1shLU6nhUrxIxsFXyyRTaPuCV4p1eVfFv/view?usp=sharing) 
+![](https://i.imgur.com/HzjtDzr.jpg)
 
 # [chikato malisz tekkito enumi](https://drive.google.com/file/d/1VRfzoBJTGmulU7Ys6nrRuch98BpnJP6v/view?usp=sharing) advice: change border to 98,100,104
 ![](https://i.imgur.com/AqB8Cnk.jpg)
@@ -147,8 +158,8 @@ Current skin count: 78
 # [chikato mizaru zzz](https://drive.google.com/file/d/1JCKZTg9DUdR2f57nAvMkhr8Ur9wDvbdZ/view?usp=sharing)
 ![](https://i.imgur.com/IElZZy6.jpg)
 
-# [chikato monkoMetanoiaASS](https://drive.google.com/file/d/1BYwy1CY5znjHrwebeOqmyqlCYdBEJTsk/view?usp=sharing) advice: change defaults
-![](https://i.imgur.com/QnJZRCy.jpeg)
+# [chikato monkoMetanoiASS](https://drive.google.com/file/d/1-0glos3CPwL1fN_FJ1bS6_blsP5g5LH7/view?usp=sharing) wow vaxcookie 1.2
+![](https://i.imgur.com/SGS6xY3.jpg)
 
 # [chikato orangechiner og](https://drive.google.com/file/d/1vNK2AZxLjtHcmFcrzrKxBWcRnlQ9fPMy/view?usp=sharing)
 ![](https://i.imgur.com/Xrpc1qn.jpg)
@@ -156,13 +167,16 @@ Current skin count: 78
 # [chikato purplepan](https://drive.google.com/file/d/1ubo0XpUg-xLGMdZZE7O1g7vckrF9V5qc/view?usp=sharing)
 ![](https://i.imgur.com/4cmCswK.jpg)
 
+# [chikato purplepan simpler](https://drive.google.com/file/d/12HdgD3baBsTFxSGeJjjGdc3LM8HL5n3l/view?usp=sharing) Tint: 1
+![](https://i.imgur.com/OBPl8A9.jpg)
+
 # [chikato purplepan 2](https://drive.google.com/file/d/19c4TlVRuOr8l3gkL9EWkvvB5AXWVoFLC/view?usp=sharing)
 ![](https://i.imgur.com/trwD9LL.jpg)
 
-# [chikato rafis silver](https://drive.google.com/file/d/1AELW63s_2PFORdRiiWdFdNQFg7sw4kVr/view?usp=sharing) 
+# [chikato rafis silver](https://drive.google.com/file/d/1Snoa1X1nJ5b0pt-wvWvy407nSph7wWbN/view?usp=sharing) 
 ![](https://i.imgur.com/WIHcSdB.jpg)
 
-# [chikato rafis silverb0](https://drive.google.com/file/d/1TFpklld4jP9ymGI5o1bzEo1Wj5gkUjIb/view?usp=sharing) 
+# [chikato rafis silverb0](https://drive.google.com/file/d/159YOgGICTWn5ZxIuXZtJV7q3k3MwRA0g/view?usp=sharing) 
 ![](https://i.imgur.com/V7FbZwF.jpg)
 
 # [chikato reused interstingo](https://drive.google.com/file/d/1TTXEq3Uq4zrE8URHfeKigudMcdFDv8sE/view?usp=sharing) 
@@ -192,12 +206,6 @@ Current skin count: 78
 # [cookerzeker](https://drive.google.com/file/d/11_Vik9btuU65DND2d3T_gpe1iA2i7Qnq/view?usp=sharing) 
 ![](https://i.imgur.com/r669OtV.jpg)
 
-# [kablaze azer m](https://drive.google.com/file/d/1l0vK5CKSMc-NCZD-omZbCBfPireks1JU/view?usp=sharing) 
-![](https://i.imgur.com/WRSo7tB.jpg)
-
-# [kablaze azer m bombalowju](https://drive.google.com/file/d/1HLMbiTNoHcbPtpoWqFOqC4cLa5oUhAPj/view?usp=sharing)
-![](https://i.imgur.com/7oCAnOO.jpg)
-
 # [monkoGlassyMaliszTurquoise](https://drive.google.com/file/d/1E4qEUDDrbl5Jp9djALZE3enaDJrdPl9v/view?usp=sharing)
 ![](https://i.imgur.com/A7nsKn3.jpg)
 
@@ -225,8 +233,8 @@ Current skin count: 78
 # [yaong ameliorite](https://drive.google.com/file/d/1QQAl-iZqAxZETym3hkdUyx6QUKPHBiZf/view?usp=sharing) 
 ![](https://i.imgur.com/OANzaOe.jpg)
 
-# [chikato yaong](https://drive.google.com/file/d/12Twis2ftYUhWbbz8VveKN_azSQuVquOh/view?usp=sharing)
-![](https://i.imgur.com/zK2xDk3.jpg)
+# [chikato yaong](https://drive.google.com/file/d/1-qknbV6dcgqdjNzNpCfhiyRp3IZF3Jqw/view?usp=sharing)
+![](https://i.imgur.com/nbZeeuL.jpg)
 
 # [chikato arnold hit different tone deaf](https://drive.google.com/file/d/1zBjj73riLrM-WCgLR6ryBSKEuRjQvZ1h/view?usp=sharing)
 ![](https://i.imgur.com/8QgDrST.jpg)
@@ -239,9 +247,6 @@ Current skin count: 78
 
 # [chikato instafade copy](https://drive.google.com/file/d/1pjJPppxIDqMlHancQ6OvwKk9hoKD1lg1/view?usp=sharing) 
 ![](https://i.imgur.com/yuMZafp.jpg)
-
-# [chikato malisz tekkito](https://drive.google.com/file/d/1shLU6nhUrxIxsFXyyRTaPuCV4p1eVfFv/view?usp=sharing) 
-![](https://i.imgur.com/HzjtDzr.jpg)
 
 # [chikato Sadness](https://drive.google.com/file/d/1yur4JfDu7e3uM7eMmaLymKSbSml_Wf7-/view?usp=sharing) 
 ![](https://i.imgur.com/uo7PDiH.jpg)
