@@ -140,7 +140,7 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar
 # [chikato ekoro](https://drive.google.com/file/d/12Lay-W9EraKtmF-DqMiWPwgxXLUY73PM/view?usp=sharing) (no hit300s)
 ![](https://i.imgur.com/yZOMIi4.jpg)
 
-# [chikato ekoro class](https://drive.google.com/file/d/1LpbN3JpjT_rUUDv6I1LCb2G85-fuCPB1/view?usp=sharing)
+# [chikato ekoro class](https://drive.google.com/file/d/1LpbN3JpjT_rUUDv6I1LCb2G85-fuCPB1/view?usp=sharing) (hit300s)
 ![](https://i.imgur.com/rhJmHYi.jpg)
 
 # [chikato kabemi better oatest](https://drive.google.com/file/d/1V6UNLOTyLL_-DHa3mfjCU1ibO8tGJvYH/view?usp=sharing) 
