@@ -245,7 +245,7 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar
 # [chikato arnold hit different tone deaf](https://drive.google.com/file/d/1zBjj73riLrM-WCgLR6ryBSKEuRjQvZ1h/view?usp=sharing)
 ![](https://i.imgur.com/8QgDrST.jpg)
 
-# [chikato boop remaster black lotus](https://drive.google.com/file/d/1avRfixWwdaGG9BSg4gyg3nhURLdLYxOg/view?usp=sharing) (instafade)
+# [chikato boop remaster black lotus](https://drive.google.com/file/d/1avRfixWwdaGG9BSg4gyg3nhURLdLYxOg/view?usp=sharing) (instafade, sliderb and follow combined)
 ![](https://i.imgur.com/6DGH8c8.jpg)
 
 # [chikato enumi 1.0](https://drive.google.com/file/d/1fwvpGphBOoo6bVOB5xXS3tzJ08Wpm2iC/view?usp=sharing) 
