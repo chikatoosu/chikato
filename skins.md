@@ -113,7 +113,7 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar
 # [chikato boop remaster 404 testo monkoesto heart](https://drive.google.com/file/d/1UplFWbFxeSielhXazJ54p8JLm7O1O75X/view?usp=sharing) 
 ![](https://i.imgur.com/jqlKR77.jpg)
 
-# [chikato boop remaster ciru subahibi instafade](https://drive.google.com/file/d/156pyXs2ura3qVoFuFts_rTzpDdltg-4d/view?usp=sharing) 
+# [chikato boop remaster ciru subahibi instafade](https://drive.google.com/file/d/156pyXs2ura3qVoFuFts_rTzpDdltg-4d/view?usp=sharing) (sliderb and follow combined)
 ![](https://i.imgur.com/oW1zrQo.jpg)
 
 # [chikato boop remaster ghost](https://drive.google.com/file/d/1h2uuvFvCDE7F113PXCeOgKIwcmrdRgAT/view?usp=sharing) 
@@ -128,7 +128,7 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar
 # [chikato boop remaster red pixel](https://drive.google.com/file/d/1E3rCKXGehqpVjP79mA-EYnYjeD3c6_I6/view?usp=sharing) 
 ![](https://i.imgur.com/bIAhnM3.jpg)
 
-# [chikato boop remaster venrue](https://drive.google.com/file/d/1JSF7nn3kSUZwSoap3ji74nClfxQ-JFh1/view?usp=sharing) (instafade)
+# [chikato boop remaster venrue](https://drive.google.com/file/d/1JSF7nn3kSUZwSoap3ji74nClfxQ-JFh1/view?usp=sharing) (instafade, sliderb and follow combined)
 ![](https://i.imgur.com/bzE6ikf.jpg)
 
 # [chikato brown better](https://drive.google.com/file/d/1K19tHUBajrXAB15DRtlJW8pq_EEyvuPg/view?usp=sharing)
@@ -176,7 +176,7 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar
 # [chikato monkoMetanoiASS](https://drive.google.com/file/d/1-0glos3CPwL1fN_FJ1bS6_blsP5g5LH7/view?usp=sharing) wow vaxcookie 1.2
 ![](https://i.imgur.com/SGS6xY3.jpg)
 
-# [chikato orangechiner og](https://drive.google.com/file/d/1vNK2AZxLjtHcmFcrzrKxBWcRnlQ9fPMy/view?usp=sharing)
+# [chikato orangechiner og](https://drive.google.com/file/d/1vNK2AZxLjtHcmFcrzrKxBWcRnlQ9fPMy/view?usp=sharing) (sliderb and follow combined)
 ![](https://i.imgur.com/Xrpc1qn.jpg)
 
 # [chikato purplepan](https://drive.google.com/file/d/1ubo0XpUg-xLGMdZZE7O1g7vckrF9V5qc/view?usp=sharing)
@@ -245,7 +245,7 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar
 # [chikato arnold hit different tone deaf](https://drive.google.com/file/d/1zBjj73riLrM-WCgLR6ryBSKEuRjQvZ1h/view?usp=sharing)
 ![](https://i.imgur.com/8QgDrST.jpg)
 
-# [chikato boop remaster black lotus](https://drive.google.com/file/d/1avRfixWwdaGG9BSg4gyg3nhURLdLYxOg/view?usp=sharing) 
+# [chikato boop remaster black lotus](https://drive.google.com/file/d/1avRfixWwdaGG9BSg4gyg3nhURLdLYxOg/view?usp=sharing) (instafade)
 ![](https://i.imgur.com/6DGH8c8.jpg)
 
 # [chikato enumi 1.0](https://drive.google.com/file/d/1fwvpGphBOoo6bVOB5xXS3tzJ08Wpm2iC/view?usp=sharing) 
