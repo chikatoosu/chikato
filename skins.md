@@ -62,8 +62,8 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar
 # [chikato to the beatum](https://drive.google.com/file/d/1uqVD4KwFlD6MsIz3W7mAzOusphX3gIx9/view?usp=sharing)
 ![](https://i.imgur.com/Be38R7B.jpg)
 
-# [chikato tranquil sublimity](https://drive.google.com/file/d/1-7ebKR3jUqEY6ANgFq7YYrekkGKti7Vu/view?usp=sharing) Tint: 1
-![](https://i.imgur.com/nYxnQvb.jpg)
+# [chikato tranquil sublimity](https://drive.google.com/file/d/1-DcAu__5z7dgoNrJ6Q1-RyYWCmQd0mFs/view?usp=sharing) Tint: 1
+![](https://i.imgur.com/Ptjyzqi.jpg)
 
 # [chikato aoki](https://drive.google.com/file/d/18kZKtlYO6AztRiHStrGFjIkkNHpIiMwh/view?usp=sharing) 
 ![](https://i.imgur.com/IBqdGVT.jpg)
@@ -86,8 +86,8 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar
 # [chikato azr8 cookesee chi cat](https://drive.google.com/file/d/1V0Ed914qn_f3WHI0VEHOlVS95njBEpV-/view?usp=sharing) 
 ![](https://i.imgur.com/Pqnaw0K.jpg)
 
-# [chikato azr8 navy](https://drive.google.com/file/d/1ONikjlySVKQ9sd3dH8-Ku4NNSoWIXUWH/view?usp=sharing) 
-![](https://i.imgur.com/PQFSq0y.jpg)
+# [chikato azr8 navy](https://drive.google.com/file/d/1wMNz-OtiDx5doAEginxLGwd0O0RMA9pz/view?usp=sharing) Tint: 1
+![](https://i.imgur.com/3jo7eOM.jpg)
 
 # [chikato azr8dsgfnjdsf](https://drive.google.com/file/d/1gEuEYP7_6aJ5m50WzB04VY0s5hX6z4Ac/view?usp=sharing) 
 ![](https://i.imgur.com/97h5MpJ.jpg)
