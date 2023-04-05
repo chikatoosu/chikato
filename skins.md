@@ -23,9 +23,6 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar
 # [chikato sameskin whale deaceased](https://drive.google.com/file/d/1O25nQsDnFA24K54EcBZUoQiNQTzprs45/view?usp=sharing)
 ![](https://i.imgur.com/UWUDlJB.jpg)
 
-# [chikato sameskin whale deaceased eo](https://drive.google.com/file/d/1NWuF7zw-U2lompZyk2EmwQx__ZwE8mK6/view?usp=sharing)
-![](https://i.imgur.com/NYLKj32.jpg)
-
 # [chikato tekkiter their style](https://drive.google.com/file/d/16_7zEuHS5IMTdc9EinEKyOrFh1t_uprm/view?usp=sharing)
 ![](https://i.imgur.com/CNXo5w3.jpg)
 
