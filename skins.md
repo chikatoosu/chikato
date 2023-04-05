@@ -6,7 +6,7 @@
 
 Full imgur: https://imgur.com/a/HNNhYcr
 
-The list is quite long hence there might be errors, please notify if somethings wrong.
+The list is quite long hence there might be errors, please notify if something's wrong.
 
 Sorry for the repetitiveness of the skins, creativity issue.
 
