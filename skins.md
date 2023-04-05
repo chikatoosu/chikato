@@ -1,8 +1,8 @@
-<h1>I haven't made any of the elements in the skins, I just mixed them around, changed things like colour, size and whatnot of some elements. </h1>
+<h1>I haven't made any of the elements in the skins, I just mixed them around, changed things like colour, size and whatnot of some of them. </h1>
 
 [profile](https://osu.ppy.sh/users/8828875)
 
-It got to the point where I didn't follow where the elements are from, I might know if you ask.
+[thanks, credits, main elements](https://docs.google.com/document/d/1lPC-a4dpUEnfmi_N1dV2u_0iIqaqBDCvHUgqpVKx3zg/edit?usp=sharing) feel free to ask me about elements that aren't there, I might remember.
 
 Full imgur: https://imgur.com/a/HNNhYcr
 
