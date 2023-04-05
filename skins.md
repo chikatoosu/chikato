@@ -200,7 +200,7 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar
 # [chikato reused 2umu Tsubasa](https://drive.google.com/file/d/1xP4tFHGe8k15XocKe3YeY2WOt4hvQ6un/view?usp=sharingyaong)
 ![](https://i.imgur.com/PmF4e35.jpg)
 
-# [chikato sakurotopia](https://drive.google.com/file/d/165-G4cqAgTMReGivtYpxMazkrv6N13sR/view?usp=sharing) (its Sakuropia)
+# [chikato sakurotopia](https://drive.google.com/file/d/165-G4cqAgTMReGivtYpxMazkrv6N13sR/view?usp=sharing) (its sakuropia)
 ![](https://i.imgur.com/C0IsWPO.jpg)
 
 # [chikato seoul v11](https://drive.google.com/file/d/13S4c6WqT_HuQKXAPJ26-cYIC6PnnVsoP/view?usp=sharing)
