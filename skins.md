@@ -256,3 +256,5 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar
 
 # [chikato Sadness](https://drive.google.com/file/d/1yur4JfDu7e3uM7eMmaLymKSbSml_Wf7-/view?usp=sharing) 
 ![](https://i.imgur.com/uo7PDiH.jpg)
+
+[chikato zzcopy](https://drive.google.com/file/d/1FHRfnHxHHAowTbfd--AYqmARowgIaCUq/view?usp=sharing) no gameplay just UI to copy
