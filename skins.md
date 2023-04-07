@@ -23,6 +23,9 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar
 # [chikato sameskin whale deaceased](https://drive.google.com/file/d/1O25nQsDnFA24K54EcBZUoQiNQTzprs45/view?usp=sharing)
 ![](https://i.imgur.com/UWUDlJB.jpg)
 
+# [chikato boop remaster venrue](https://drive.google.com/file/d/1iUfYdautjFYtjykQoUfN-LdHhT4RhT6e/view?usp=sharing) ||| [instafade ver. ](https://drive.google.com/file/d/1Jt-L6mH-nh2b6X0O2rDAsArFZe3oQ-c4/view?usp=sharing)
+![](https://i.imgur.com/L0T8xVK.jpg)
+
 # [chikato tekkiter their style](https://drive.google.com/file/d/16_7zEuHS5IMTdc9EinEKyOrFh1t_uprm/view?usp=sharing)
 ![](https://i.imgur.com/CNXo5w3.jpg)
 
@@ -124,9 +127,6 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar
 
 # [chikato boop remaster red pixel](https://drive.google.com/file/d/1E3rCKXGehqpVjP79mA-EYnYjeD3c6_I6/view?usp=sharing) 
 ![](https://i.imgur.com/bIAhnM3.jpg)
-
-# [chikato boop remaster venrue](https://drive.google.com/file/d/1JSF7nn3kSUZwSoap3ji74nClfxQ-JFh1/view?usp=sharing) (instafade, sliderb and follow combined)
-![](https://i.imgur.com/bzE6ikf.jpg)
 
 # [chikato brown better](https://drive.google.com/file/d/1K19tHUBajrXAB15DRtlJW8pq_EEyvuPg/view?usp=sharing)
 ![](https://i.imgur.com/P0fwFgU.jpg)
