@@ -74,8 +74,8 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar without my avatar
 # [chikato aristia exarch nanoya real](https://drive.google.com/file/d/12ZRSUnRXd1Mtjcd7KNJtsxN7HeqA_oO7/view?usp=sharing) 
 ![](https://i.imgur.com/kRTLY5j.jpg)
 
-# [chikato aristia exarch blue da bu real](https://drive.google.com/file/d/17l6zbOwRlq-8AC4TGcxReiHWUybaWAcy/view?usp=sharing) 
-![](https://i.imgur.com/HHndeCH.jpg)
+# [chikato aristia exarch blue da bu real](https://drive.google.com/file/d/1lp2JMTy3es7CT6GGTSlK8vLBTTpYqr-P/view?usp=sharing) 
+![](https://i.imgur.com/cf1KeBl.jpg)
 
 # [chikato atesto testo updated](https://drive.google.com/file/d/13rj69Vd83kice5-HOftgq44tmRuYZul9/view?usp=sharing) 
 ![](https://i.imgur.com/6T4Gc5p.jpg)
