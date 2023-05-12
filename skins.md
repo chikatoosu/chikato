@@ -18,10 +18,7 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar without my avatar
 ![](https://i.imgur.com/rF06Z5z.jpg)
 
 # [chikato sameskin enumi numer](https://drive.google.com/file/d/1a-qioM4CDo5QJdREQc-5CSO4ovT_llHH/view?usp=sharing)
-![](https://i.imgur.com/9eFwBAt.jpg)
-
 # [chikato sameskin whale deaceased](https://drive.google.com/file/d/1O25nQsDnFA24K54EcBZUoQiNQTzprs45/view?usp=sharing)
-![](https://i.imgur.com/UWUDlJB.jpg)
 
 # [chikato boop remaster venrue](https://drive.google.com/file/d/1iUfYdautjFYtjykQoUfN-LdHhT4RhT6e/view?usp=sharing) ||| [instafade ver. ](https://drive.google.com/file/d/1Jt-L6mH-nh2b6X0O2rDAsArFZe3oQ-c4/view?usp=sharing)
 ![](https://i.imgur.com/L0T8xVK.jpg)
@@ -175,12 +172,6 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar without my avatar
 
 # [chikato orangechiner og](https://drive.google.com/file/d/1vNK2AZxLjtHcmFcrzrKxBWcRnlQ9fPMy/view?usp=sharing) (sliderb and follow combined)
 ![](https://i.imgur.com/Xrpc1qn.jpg)
-
-# [chikato purplepan](https://drive.google.com/file/d/1ubo0XpUg-xLGMdZZE7O1g7vckrF9V5qc/view?usp=sharing)
-![](https://i.imgur.com/4cmCswK.jpg)
-
-# [chikato purplepan simpler](https://drive.google.com/file/d/12HdgD3baBsTFxSGeJjjGdc3LM8HL5n3l/view?usp=sharing) Tint: 1
-![](https://i.imgur.com/OBPl8A9.jpg)
 
 # [chikato purplepan 2](https://drive.google.com/file/d/19c4TlVRuOr8l3gkL9EWkvvB5AXWVoFLC/view?usp=sharing)
 ![](https://i.imgur.com/trwD9LL.jpg)
