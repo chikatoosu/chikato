@@ -29,9 +29,6 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar without my avatar
 # [chikato tekkiter2 their style](https://drive.google.com/file/d/1wEGDsjPwi26q4d2rwnKvG5nzZZE5Pqne/view?usp=sharing)
 ![](https://i.imgur.com/SHKZ5vF.jpg)
 
-# [chikato tekkiter cappucino](https://drive.google.com/file/d/1ztFdzrcVEKyQsCMkS1MPBl6KbRwijaLt/view?usp=sharing) (scorebar source)
-![](https://i.imgur.com/49aZfX6.jpg)
-
 # [chikato tekkito azr8](https://drive.google.com/file/d/1al7Ho4qy6r_rNZzAsL9tjBDiz7cl4hDJ/view?usp=sharing) 
 ![](https://i.imgur.com/9Jn0PkS.jpg)
 
