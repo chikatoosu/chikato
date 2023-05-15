@@ -144,9 +144,6 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar without my avatar
 # [chikato knalli](https://drive.google.com/file/d/1z34l_LqiJpLsvrA7cBF2VKjzFx_P9IFw/view?usp=sharing) Tint: 1
 ![](https://i.imgur.com/lXGpSiy.jpg)
 
-# [chikato malisz tekkito](https://drive.google.com/file/d/1shLU6nhUrxIxsFXyyRTaPuCV4p1eVfFv/view?usp=sharing) 
-![](https://i.imgur.com/HzjtDzr.jpg)
-
 # [chikato malisz tekkito enumi](https://drive.google.com/file/d/1VRfzoBJTGmulU7Ys6nrRuch98BpnJP6v/view?usp=sharing) advice: change border to 98,100,104
 ![](https://i.imgur.com/AqB8Cnk.jpg)
 
