@@ -38,11 +38,9 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar without my avatar
 # [chikato tekkito mizaru](https://drive.google.com/file/d/1zGzUyD-dtyaVBFV8_qh3COLp_rwvYHWZ/view?usp=sharing)
 ![](https://i.imgur.com/H74HKRU.jpg)
 
-# [chikato tekkito mizaru ekoro](https://drive.google.com/file/d/1XkcbrarvHCoR7DkZjdEkSE__pqrejrYN/view?usp=sharing) (no hit300s)
-![](https://i.imgur.com/n2XbcrJ.jpg)
-
 # [chikato tekkito mizaru ekoro baquaNUMER](https://drive.google.com/file/d/12uqsajT_LfbL3ueko2TfEaEmzJ8FNNtu/view?usp=sharing) (no hit300s, sliderb and follow combined)
 ![](https://i.imgur.com/1RQHAbV.jpg)
+# [chikato tekkito mizaru ekoro](https://drive.google.com/file/d/1XkcbrarvHCoR7DkZjdEkSE__pqrejrYN/view?usp=sharing) (no hit300s)
 
 # [chikato tekkito mizaru shirousa](https://drive.google.com/file/d/1rVymE6PHJp36pUhIsJmkRuoXjXwIONbL/view?usp=sharing)
 ![](https://i.imgur.com/HPu89jv.jpg)
