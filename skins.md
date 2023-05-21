@@ -20,7 +20,7 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar without my avatar
 # [chikato sameskin enumi numer](https://drive.google.com/file/d/1a-qioM4CDo5QJdREQc-5CSO4ovT_llHH/view?usp=sharing)
 # [chikato sameskin whale deaceased](https://drive.google.com/file/d/1O25nQsDnFA24K54EcBZUoQiNQTzprs45/view?usp=sharing)
 
-# [chikato boop remaster venrue](https://drive.google.com/file/d/1iUfYdautjFYtjykQoUfN-LdHhT4RhT6e/view?usp=sharing) ||| [instafade ver. ](https://drive.google.com/file/d/1Jt-L6mH-nh2b6X0O2rDAsArFZe3oQ-c4/view?usp=sharing)
+# [chikato boop remaster venrue](https://drive.google.com/file/d/1lZD8hjz_ADxVH29r0dCCMjGCjL9PuDB9/view?usp=sharing) ||| [instafade ver. ](https://drive.google.com/file/d/1Jt-L6mH-nh2b6X0O2rDAsArFZe3oQ-c4/view?usp=sharing)
 ![](https://i.imgur.com/L0T8xVK.jpg)
 
 # [chikato tekkiter their style](https://drive.google.com/file/d/16_7zEuHS5IMTdc9EinEKyOrFh1t_uprm/view?usp=sharing)
