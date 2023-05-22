@@ -207,9 +207,6 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar without my avatar
 # [Telta](https://drive.google.com/file/d/1JG9MyZzm3cjWHzqNVVaK7WLSQ5kLHO3G/view?usp=sharing) 
 ![](https://i.imgur.com/W9rTLMi.jpg)
 
-# [Tokichii chiker](https://drive.google.com/file/d/1Kvwn1IgijclcpDIfs2Xz45Yt5Vzr8dTQ/view?usp=sharing) 
-![](https://i.imgur.com/uqFmKNB.jpg)
-
 # [chikato xoo and other anomalies](https://drive.google.com/file/d/1hIzF5v0glCL55IJMDylnJJtRy9-O7nz6/view?usp=sharing) 
 ![](https://i.imgur.com/FcYq2mL.jpg)
 
