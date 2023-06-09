@@ -96,9 +96,6 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar without my avatar
 # [chikato baquaCREZZgold](https://drive.google.com/file/d/1qJT3QerRGfzurI2d0lO7Uv10n_Fra6UP/view?usp=sharing) 
 ![](https://i.imgur.com/0deeTv4.jpg)
 
-# [chikato bloo ryuk test lighto](https://drive.google.com/file/d/1qJ5Hrj_bT094mxZQXupyTyfOmFbh1onr/view?usp=sharing) 
-![](https://i.imgur.com/9SkjqIr.jpg)
-
 # [chikato boop remaster 404 testo monkoesto heart](https://drive.google.com/file/d/1UplFWbFxeSielhXazJ54p8JLm7O1O75X/view?usp=sharing) 
 ![](https://i.imgur.com/jqlKR77.jpg)
 
@@ -111,20 +108,11 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar without my avatar
 # [chikato boop remaster ghost subahibi](https://drive.google.com/file/d/1n5FFciS8MfOpHjInXvEm0Pv4w7KGut8O/view?usp=sharing) 
 ![](https://i.imgur.com/7xLjSwB.jpg)
 
-# [chikato boop remaster pinguinzi](https://drive.google.com/file/d/10_-5jY1LSNns2kks_LW53Ih57CuX0yQS/view?usp=sharing) 
-![](https://i.imgur.com/3xGXJ7a.jpg)
-
-# [chikato boop remaster red pixel](https://drive.google.com/file/d/1E3rCKXGehqpVjP79mA-EYnYjeD3c6_I6/view?usp=sharing) 
-![](https://i.imgur.com/bIAhnM3.jpg)
-
 # [chikato brown better](https://drive.google.com/file/d/1K19tHUBajrXAB15DRtlJW8pq_EEyvuPg/view?usp=sharing)
 ![](https://i.imgur.com/P0fwFgU.jpg)
 
 # [chikato colour dark](https://drive.google.com/file/d/1p8OGjxXTiCkUYO_sCW5wk6rqzZAdVCP-/view?usp=sharing)
 ![](https://i.imgur.com/3YLO6rO.jpg)
-
-# [chikato ekoro](https://drive.google.com/file/d/12Lay-W9EraKtmF-DqMiWPwgxXLUY73PM/view?usp=sharing) (no hit300s)
-![](https://i.imgur.com/yZOMIi4.jpg)
 
 # [chikato ekoro class](https://drive.google.com/file/d/1LpbN3JpjT_rUUDv6I1LCb2G85-fuCPB1/view?usp=sharing) (hit300s)
 ![](https://i.imgur.com/rhJmHYi.jpg)
@@ -192,9 +180,6 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar without my avatar
 # [chikato vaxer old cool og](https://drive.google.com/file/d/1AmtF-Op8ZY0xemp5P-XVpqBTBBI85Ni5/view?usp=sharing)
 ![](https://i.imgur.com/2WtqM4G.jpg)
 
-# [chikato yu68lokser](https://drive.google.com/file/d/1jBuRnAbOcpGfr8CtwjsVcKP7lfLTqhwJ/view?usp=sharing) 
-![](https://i.imgur.com/cFbpksC.jpg)
-
 # [BENKI FP](https://drive.google.com/file/d/1xL3QDRPswIgrA-wHTQXhnDrNV6kCC1XS/view?usp=sharing) 
 ![](https://i.imgur.com/PRSp5cT.jpg)
 
@@ -210,23 +195,11 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar without my avatar
 # [chikato xoo and other anomalies](https://drive.google.com/file/d/1hIzF5v0glCL55IJMDylnJJtRy9-O7nz6/view?usp=sharing) 
 ![](https://i.imgur.com/FcYq2mL.jpg)
 
-# [chikato yaong](https://drive.google.com/file/d/1-qknbV6dcgqdjNzNpCfhiyRp3IZF3Jqw/view?usp=sharing)
-![](https://i.imgur.com/nbZeeuL.jpg)
-
-# [chikato yaong ameliorite](https://drive.google.com/file/d/1gd_VnDV0F7F3bV1GuQES75ydvUevt5Sv/view?usp=sharing) 
-![](https://i.imgur.com/OANzaOe.jpg)
-
-# [chikato arnold hit different tone deaf](https://drive.google.com/file/d/1zBjj73riLrM-WCgLR6ryBSKEuRjQvZ1h/view?usp=sharing)
-![](https://i.imgur.com/8QgDrST.jpg)
-
 # [chikato boop remaster black lotus](https://drive.google.com/file/d/1avRfixWwdaGG9BSg4gyg3nhURLdLYxOg/view?usp=sharing) (instafade, sliderb and follow combined)
 ![](https://i.imgur.com/6DGH8c8.jpg)
 
 # [chikato enumi 1.0](https://drive.google.com/file/d/1fwvpGphBOoo6bVOB5xXS3tzJ08Wpm2iC/view?usp=sharing) 
 ![](https://i.imgur.com/zspG3sw.jpg)
-
-# [chikato instafade copy](https://drive.google.com/file/d/1pjJPppxIDqMlHancQ6OvwKk9hoKD1lg1/view?usp=sharing) 
-![](https://i.imgur.com/yuMZafp.jpg)
 
 # [chikato Sadness](https://drive.google.com/file/d/1yur4JfDu7e3uM7eMmaLymKSbSml_Wf7-/view?usp=sharing) 
 ![](https://i.imgur.com/uo7PDiH.jpg)
