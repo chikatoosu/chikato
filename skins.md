@@ -117,7 +117,7 @@ scorebar-bg@2xq in boop remaster ghost if you want og scorebar without my avatar
 # [chikato ekoro class](https://drive.google.com/file/d/1LpbN3JpjT_rUUDv6I1LCb2G85-fuCPB1/view?usp=sharing) (hit300s)
 ![](https://i.imgur.com/rhJmHYi.jpg)
 
-# [chikato kabemi better oatest](https://drive.google.com/file/d/1V6UNLOTyLL_-DHa3mfjCU1ibO8tGJvYH/view?usp=sharing) 
+# [chikato kabemi better oatest](https://drive.google.com/file/d/1hputiaWPejbZi1rz1I08SfFO8ZJjZMKJ/view?usp=sharing) 
 ![](https://i.imgur.com/oDSdUN0.jpg)
 
 # [chikato kablaze azer m](https://drive.google.com/file/d/1MtBnS6kC--99dPzagVoVx7MAd3UaWpXK/view?usp=sharing) 
