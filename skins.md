@@ -105,10 +105,10 @@
 ![](https://i.imgur.com/nyyHgFS.png)
 
 # [chikato kaimu](https://drive.google.com/file/d/1eL5Kt04CIyotqSA-_Ps4DCnLKXPkYx8K/view?usp=sharing) 
-![](https://i.imgur.com/m0NVKe5.jpg)
+![](https://i.imgur.com/XCAuo3Z.png)
 
 # [chikato knalli](https://drive.google.com/file/d/1z34l_LqiJpLsvrA7cBF2VKjzFx_P9IFw/view?usp=sharing)
-![](https://i.imgur.com/lXGpSiy.jpg)
+![](https://i.imgur.com/H5Hb87T.png)
 
 # [chikato mizaru](https://drive.google.com/file/d/1VRfzoBJTGmulU7Ys6nrRuch98BpnJP6v/view?usp=sharing)
 ![](https://i.imgur.com/2mHJce7.png)
