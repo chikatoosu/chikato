@@ -23,7 +23,7 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 # [chikato aoki](https://drive.google.com/file/d/1zGzUyD-dtyaVBFV8_qh3COLp_rwvYHWZ/view?usp=sharing)
 ![](https://i.imgur.com/8REJJeR.png)
 
-# [chikato aromatherapy](https://drive.google.com/file/d/12uqsajT_LfbL3ueko2TfEaEmzJ8FNNtu/view?usp=sharing) (no hit300s, sliderb and follow combined)
+# [chikato aromatherapy](https://drive.google.com/file/d/12uqsajT_LfbL3ueko2TfEaEmzJ8FNNtu/view?usp=sharing)
 ![](https://i.imgur.com/iRCtr8Q.png)
 
 # [chikato aromatherapy b](https://drive.google.com/file/d/1rVymE6PHJp36pUhIsJmkRuoXjXwIONbL/view?usp=sharing)
