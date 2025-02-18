@@ -68,14 +68,14 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 # [chikato ekorizmo](https://drive.google.com/file/d/1LpbN3JpjT_rUUDv6I1LCb2G85-fuCPB1/view?usp=sharing) 
 ![](https://i.imgur.com/8wUXUPP.png)
 
+# [chikato ekorizmo eloquence](https://drive.google.com/file/d/1JxpeumsE94I-As8BN9EA8mTKA3mgB2WD/view?usp=sharing) 
+![](https://i.imgur.com/Hhy2A3A.png)
+
 # [chikato ekorizmo 255](https://drive.google.com/file/d/1wM4OBT5cCAvBmGx20H_Vr73B-yPxgfHN/view?usp=sharing) 
 ![](https://i.imgur.com/HSkJFiF.png)
 
 # [chikato ekorizmo cobalt](https://drive.google.com/file/d/1h0g_uo44lFbQQ4eYpYRU6t-vhLe4CIau/view?usp=sharing) 
 ![](https://i.imgur.com/m5N5MbH.png)
-
-# [chikato ekorizmo eloquence](https://drive.google.com/file/d/1JxpeumsE94I-As8BN9EA8mTKA3mgB2WD/view?usp=sharing) 
-![](https://i.imgur.com/Hhy2A3A.png)
 
 # [chikato ekorizmo seoul](https://drive.google.com/file/d/1qJT3QerRGfzurI2d0lO7Uv10n_Fra6UP/view?usp=sharing) 
 ![](https://i.imgur.com/CGBAZRJ.png)
@@ -161,6 +161,15 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 # [chikato to the beatum dj mag](https://drive.google.com/file/d/150r4BmhEbDQDRtSYuu7LiCXCZQbO1y0Y/view?usp=sharing) 
 ![](https://i.imgur.com/IREOSHc.png)
 
+# [chikato Yukari Yakumo](https://drive.google.com/file/d/1yur4JfDu7e3uM7eMmaLymKSbSml_Wf7-/view?usp=sharing) 
+![](https://i.imgur.com/UbtgfKi.png)
+
+# [chikato Yukari Yakumo 255](https://drive.google.com/file/d/1yur4JfDu7e3uM7eMmaLymKSbSml_Wf7-/view?usp=sharing) 
+![](https://i.imgur.com/7Wo9PXF.png)
+
+# [chikato Yukari Yakumo purple](https://drive.google.com/file/d/1yur4JfDu7e3uM7eMmaLymKSbSml_Wf7-/view?usp=sharing) 
+![](https://i.imgur.com/6WOSkBR.png)
+
 # [chikato azerino 255](https://drive.google.com/file/d/1AmtF-Op8ZY0xemp5P-XVpqBTBBI85Ni5/view?usp=sharing)
 ![](https://i.imgur.com/ksxtp4Y.png)
 
@@ -217,15 +226,6 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 
 # [chikato vaxei 2023 bloo](https://drive.google.com/file/d/1yur4JfDu7e3uM7eMmaLymKSbSml_Wf7-/view?usp=sharing) 
 ![](https://i.imgur.com/uWqlOzy.png)
-
-# [chikato Yukari Yakumo](https://drive.google.com/file/d/1yur4JfDu7e3uM7eMmaLymKSbSml_Wf7-/view?usp=sharing) 
-![](https://i.imgur.com/UbtgfKi.png)
-
-# [chikato Yukari Yakumo 255](https://drive.google.com/file/d/1yur4JfDu7e3uM7eMmaLymKSbSml_Wf7-/view?usp=sharing) 
-![](https://i.imgur.com/7Wo9PXF.png)
-
-# [chikato Yukari Yakumo purple](https://drive.google.com/file/d/1yur4JfDu7e3uM7eMmaLymKSbSml_Wf7-/view?usp=sharing) 
-![](https://i.imgur.com/6WOSkBR.png)
 
 # [chikato 255 boop](https://drive.google.com/file/d/1yur4JfDu7e3uM7eMmaLymKSbSml_Wf7-/view?usp=sharing) 
 ![](https://i.imgur.com/KWUff1O.png)
