@@ -225,7 +225,7 @@
 ![](https://i.imgur.com/4MpCyXQ.png)
 
 # [chikato 255 boop instafade](https://drive.google.com/file/d/1yur4JfDu7e3uM7eMmaLymKSbSml_Wf7-/view?usp=sharing) 
-![](https://i.imgur.com/3n1Juow.png)
+![](https://i.imgur.com/bFY5MU1.png)
 
 # [chikato 255 ciru](https://drive.google.com/file/d/1yur4JfDu7e3uM7eMmaLymKSbSml_Wf7-/view?usp=sharing) 
 ![](https://i.imgur.com/oQrwDST.png)
@@ -234,7 +234,7 @@
 ![](https://i.imgur.com/WSX1khs.png)
 
 # [chikato 255 pinguinzi](https://drive.google.com/file/d/1yur4JfDu7e3uM7eMmaLymKSbSml_Wf7-/view?usp=sharing) 
-![](https://i.imgur.com/TzX0KJ7.png)
+![](https://osu.ppy.sh/ss/19508015/79b5)
 
 # [chikato Alisa Mikhailovna](https://drive.google.com/file/d/1yur4JfDu7e3uM7eMmaLymKSbSml_Wf7-/view?usp=sharing) 
 ![](https://i.imgur.com/jWKhb6F.png)
