@@ -38,7 +38,7 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 # [chikato azr8 b](https://drive.google.com/file/d/1uqVD4KwFlD6MsIz3W7mAzOusphX3gIx9/view?usp=sharing)
 ![](https://i.imgur.com/5xXwtRh.png)
 
-# [chikato azr8 navy](https://drive.google.com/file/d/1-DcAu__5z7dgoNrJ6Q1-RyYWCmQd0mFs/view?usp=sharing) Tint: 1
+# [chikato azr8 navy](https://drive.google.com/file/d/1-DcAu__5z7dgoNrJ6Q1-RyYWCmQd0mFs/view?usp=sharing)
 ![](https://i.imgur.com/2epR7am.png)
 
 # [chikato azr8 solid](https://drive.google.com/file/d/18kZKtlYO6AztRiHStrGFjIkkNHpIiMwh/view?usp=sharing) 
@@ -59,7 +59,7 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 # [chikato azur](https://drive.google.com/file/d/1V0Ed914qn_f3WHI0VEHOlVS95njBEpV-/view?usp=sharing) 
 ![](https://i.imgur.com/TFpZJbW.png)
 
-# [chikato baquaCREZZ](https://drive.google.com/file/d/1wMNz-OtiDx5doAEginxLGwd0O0RMA9pz/view?usp=sharing) Tint: 1
+# [chikato baquaCREZZ](https://drive.google.com/file/d/1wMNz-OtiDx5doAEginxLGwd0O0RMA9pz/view?usp=sharing)
 ![](https://i.imgur.com/nBHB1i6.png)
 
 # [chikato brown](https://drive.google.com/file/d/1gEuEYP7_6aJ5m50WzB04VY0s5hX6z4Ac/view?usp=sharing) 
@@ -98,7 +98,7 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 # [chikato generic ghost](https://drive.google.com/file/d/1p8OGjxXTiCkUYO_sCW5wk6rqzZAdVCP-/view?usp=sharing)
 ![](https://i.imgur.com/XZ9z82M.png)
 
-# [chikato generic ghost b](https://drive.google.com/file/d/1LpbN3JpjT_rUUDv6I1LCb2G85-fuCPB1/view?usp=sharing) (hit300s)
+# [chikato generic ghost b](https://drive.google.com/file/d/1LpbN3JpjT_rUUDv6I1LCb2G85-fuCPB1/view?usp=sharing)
 ![](https://i.imgur.com/e1XEkLr.png)
 
 # [chikato generic sunny](https://drive.google.com/file/d/1hputiaWPejbZi1rz1I08SfFO8ZJjZMKJ/view?usp=sharing) 
@@ -113,10 +113,10 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 # [chikato kaimu](https://drive.google.com/file/d/1eL5Kt04CIyotqSA-_Ps4DCnLKXPkYx8K/view?usp=sharing) 
 ![](https://i.imgur.com/m0NVKe5.jpg)
 
-# [chikato knalli](https://drive.google.com/file/d/1z34l_LqiJpLsvrA7cBF2VKjzFx_P9IFw/view?usp=sharing) Tint: 1
+# [chikato knalli](https://drive.google.com/file/d/1z34l_LqiJpLsvrA7cBF2VKjzFx_P9IFw/view?usp=sharing)
 ![](https://i.imgur.com/lXGpSiy.jpg)
 
-# [chikato mizaru](https://drive.google.com/file/d/1VRfzoBJTGmulU7Ys6nrRuch98BpnJP6v/view?usp=sharing) advice: change border to 98,100,104
+# [chikato mizaru](https://drive.google.com/file/d/1VRfzoBJTGmulU7Ys6nrRuch98BpnJP6v/view?usp=sharing)
 ![](https://i.imgur.com/2mHJce7.png)
 
 # [chikato orangechiner](https://drive.google.com/file/d/1K-SuCIY8A4qCovRt1itIr930AQ0ZH3hO/view?usp=sharing) 
@@ -128,10 +128,10 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 # [chikato pikapwn](https://drive.google.com/file/d/1-77CwvLnzvc7K5TUsbGUcAL7jnlUFOrC/view?usp=sharing)
 ![](https://i.imgur.com/cyGcuXB.png)
 
-# [chikato rafis nmBB](https://drive.google.com/file/d/1-0glos3CPwL1fN_FJ1bS6_blsP5g5LH7/view?usp=sharing) wow vaxcookie 1.2
+# [chikato rafis nmBB](https://drive.google.com/file/d/1-0glos3CPwL1fN_FJ1bS6_blsP5g5LH7/view?usp=sharing)
 ![](https://i.imgur.com/wVOGr6W.png)
 
-# [chikato reused intrestingo](https://drive.google.com/file/d/1vNK2AZxLjtHcmFcrzrKxBWcRnlQ9fPMy/view?usp=sharing) (sliderb and follow combined)
+# [chikato reused intrestingo](https://drive.google.com/file/d/1vNK2AZxLjtHcmFcrzrKxBWcRnlQ9fPMy/view?usp=sharing)
 ![](https://i.imgur.com/cLPFLwP.png)
 
 # [chikato sakuropia](https://drive.google.com/file/d/19c4TlVRuOr8l3gkL9EWkvvB5AXWVoFLC/view?usp=sharing)
@@ -149,7 +149,7 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 # [chikato senbon b](https://drive.google.com/file/d/1xP4tFHGe8k15XocKe3YeY2WOt4hvQ6un/view?usp=sharingyaong)
 ![](https://i.imgur.com/qTGixRZ.png)
 
-# [chikato shiitekki r](https://drive.google.com/file/d/165-G4cqAgTMReGivtYpxMazkrv6N13sR/view?usp=sharing) (its sakuropia)
+# [chikato shiitekki r](https://drive.google.com/file/d/165-G4cqAgTMReGivtYpxMazkrv6N13sR/view?usp=sharing)
 ![](https://i.imgur.com/THIkARv.png)
 
 # [chikato shirotama](https://drive.google.com/file/d/13S4c6WqT_HuQKXAPJ26-cYIC6PnnVsoP/view?usp=sharing)
