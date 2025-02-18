@@ -222,7 +222,7 @@
 ![](https://i.imgur.com/uWqlOzy.png)
 
 # [chikato 255 boop](https://drive.google.com/file/d/1yur4JfDu7e3uM7eMmaLymKSbSml_Wf7-/view?usp=sharing) 
-![](https://i.imgur.com/KWUff1O.png)
+![](https://i.imgur.com/4MpCyXQ.png)
 
 # [chikato 255 boop instafade](https://drive.google.com/file/d/1yur4JfDu7e3uM7eMmaLymKSbSml_Wf7-/view?usp=sharing) 
 ![](https://i.imgur.com/3n1Juow.png)
