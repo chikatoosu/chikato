@@ -63,7 +63,7 @@
 
 # [chikato ekorizmo](https://drive.google.com/file/d/1LpbN3JpjT_rUUDv6I1LCb2G85-fuCPB1/view?usp=sharing) 
 ![](https://i.imgur.com/8wUXUPP.png)
-# [chikato ekorizmo eloquence](https://drive.google.com/file/d/1JxpeumsE94I-As8BN9EA8mTKA3mgB2WD/view?usp=sharing) (similar, different hitoverlay and cursor)
+# [chikato ekorizmo eloquence](https://drive.google.com/file/d/1JxpeumsE94I-As8BN9EA8mTKA3mgB2WD/view?usp=sharing)
 ![](https://i.imgur.com/Hhy2A3A.png)
 
 # [chikato ekorizmo 255](https://drive.google.com/file/d/1wM4OBT5cCAvBmGx20H_Vr73B-yPxgfHN/view?usp=sharing) 
