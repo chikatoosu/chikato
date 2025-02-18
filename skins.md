@@ -1,7 +1,3 @@
-[profile](https://osu.ppy.sh/users/8828875)
-
-Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderbs.
-
 # [chikato 255 celestial](https://drive.google.com/file/d/1DBYs-7QjqtC-E5rzdFEJzZ2JLc-FOOP1/view?usp=sharing)
 ![](https://i.imgur.com/ylWLMYc.png)
 
