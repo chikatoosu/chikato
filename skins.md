@@ -90,7 +90,7 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 # [chikato generic cosmos](https://drive.google.com/file/d/1n5FFciS8MfOpHjInXvEm0Pv4w7KGut8O/view?usp=sharing) 
 ![](https://i.imgur.com/d0KBzqA.png)
 
-# [chikato generic dj mag(https://drive.google.com/file/d/1K19tHUBajrXAB15DRtlJW8pq_EEyvuPg/view?usp=sharing)
+# [chikato generic dj mag](https://drive.google.com/file/d/1K19tHUBajrXAB15DRtlJW8pq_EEyvuPg/view?usp=sharing)
 ![](https://i.imgur.com/ROBQrOP.png)
 
 # [chikato generic ghost](https://drive.google.com/file/d/1p8OGjxXTiCkUYO_sCW5wk6rqzZAdVCP-/view?usp=sharing)
