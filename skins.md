@@ -187,10 +187,10 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 ![](https://i.imgur.com/93lNrgx.png)
 
 # [chikato ietherial ae](https://drive.google.com/file/d/1avRfixWwdaGG9BSg4gyg3nhURLdLYxOg/view?usp=sharing)
-![](https://i.imgur.com/mIMT2Sr.png)
+![](https://i.imgur.com/lDkapAr.png)
 
 # [chikato ietherial blue](https://drive.google.com/file/d/1fwvpGphBOoo6bVOB5xXS3tzJ08Wpm2iC/view?usp=sharing) 
-![](https://i.imgur.com/UHRU1HA.png)
+![](https://i.imgur.com/dljnsgv.png)
 
 # [chikato ietherial work](https://drive.google.com/file/d/1yur4JfDu7e3uM7eMmaLymKSbSml_Wf7-/view?usp=sharing) 
 ![](https://i.imgur.com/HuNORrE.png)
