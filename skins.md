@@ -177,7 +177,7 @@ Go into skin.ini and get AllowSliderBallTint: 1 if you want combo colour sliderb
 # [chikato azerino brown b](https://drive.google.com/file/d/11_Vik9btuU65DND2d3T_gpe1iA2i7Qnq/view?usp=sharing) 
 ![](https://i.imgur.com/IT3uqTt.png)
 
-# [chikato azerino cyan(https://drive.google.com/file/d/1L_oeXodAeJZ_PBI_U2o0RrmciUSCk4dB/view?usp=sharing)
+# [chikato azerino cyan](https://drive.google.com/file/d/1L_oeXodAeJZ_PBI_U2o0RrmciUSCk4dB/view?usp=sharing)
 ![](https://i.imgur.com/49UhK7L.png)
 
 # [chikato azerino cyan b](https://drive.google.com/file/d/1JG9MyZzm3cjWHzqNVVaK7WLSQ5kLHO3G/view?usp=sharing) 
