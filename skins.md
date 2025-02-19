@@ -99,6 +99,9 @@
 # [generic work](https://drive.google.com/file/d/1db0qxFC9mRppO-bpJ0EqdUzs_gE9xcE7/view?usp=sharing)
 ![](https://i.imgur.com/nyyHgFS.png)
 
+# [kabemi](https://drive.google.com/file/d/1tFJxoT-iaWm-QPWxdH_gr_OKZFpUN30C/view?usp=sharing) 
+![](https://i.imgur.com/9cTKhry.png)
+
 # [kaimu](https://drive.google.com/file/d/1nCqk4419w4_7yD686Q1Cok-8k6Ja3wPw/view?usp=sharing) 
 ![](https://i.imgur.com/XCAuo3Z.png)
 
