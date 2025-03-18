@@ -37,7 +37,7 @@
 # [azr8 solid](https://drive.google.com/file/d/1jHUjLBz5n-OO_LD6SsYjoUNCxXT8NfkB/view?usp=sharing) 
 ![](https://i.imgur.com/CYyhGQn.png)
 
-# [azr8er blue](https://drive.google.com/file/d/1CHPEhpQaxvINQzR98xDUEC1FJTaCFWVp/view?usp=sharing) 
+# [azr8er blue](https://drive.google.com/file/d/1uePjKs3uV11mxpWhCfYo1fj4_AZby1TT/view?usp=sharing) 
 ![](https://i.imgur.com/xLpmmmb.png)
 
 # [azr8 crezz](https://drive.google.com/file/d/1G4BrWK4x3Tre6r5o9MZrmt06ILH5qCGX/view?usp=sharing) 
